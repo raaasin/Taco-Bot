@@ -33,12 +33,10 @@ def run_discord_bot():
         channel = str(message.channel)
 
         print(f"{username} said: '{usermessage}' ({channel})")
+        print(len(usermessage))
 
-        if usermessage.startswith('?'):
+        if usermessage.startswith('&'):
             usermessage = usermessage[1:] 
-            await send_message(message, usermessage, is_private=True)
-        elif usermessage.startswith('&'):
-            usermessage=usermessage[1:]
             await send_message(message, usermessage, is_private=False)
 
     
