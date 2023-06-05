@@ -1,6 +1,8 @@
 import discord
 import responses
 
+intents = discord.Intents.all()
+
 
 # Send messages
 async def send_message(message, user_message, is_private):
@@ -14,7 +16,7 @@ async def send_message(message, user_message, is_private):
 
 def run_discord_bot():
     TOKEN = 'MTExNDgyNTQ4OTAzNTU3OTQyNQ.GINFen.QLe6Cxaq5mko6_upV98Y_uHmIUMcK08B1fu-lc'
-    client = discord.Client(intents=discord.Intents.default())
+    client = discord.Client(intents=intents)
 
     @client.event
     async def on_ready():
@@ -35,7 +37,8 @@ def run_discord_bot():
         if usermessage.startswith('?'):
             usermessage = usermessage[1:] 
             await send_message(message, usermessage, is_private=True)
-        else:
+        elif usermessage.startswith('&'):
+            usermessage=usermessage[1:]
             await send_message(message, usermessage, is_private=False)
 
     
