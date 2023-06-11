@@ -2,7 +2,7 @@
 Fall Registration for RLCS 2022-23 will be live on start.gg soon! 
 
 - Where can I read more about the RLCS?
-Please visit “https://esports.rocketleague.com/%E2%80%9D for more information.
+Please visit https://esports.rocketleague.com/ for more information.
 
 - Where can I find the ruleset?
 The ruleset is available at "TBD". Please make sure to read it through to prepare the best you can to compete. 
@@ -10,7 +10,7 @@ The ruleset is available at "TBD". Please make sure to read it through to prepar
 You can find most answers to this in the official start.gg support article [Tournament Participation](https://help.start.gg/en/articles/2472271-tournament-participation)
 
 - How do I check in for a tournament and make sure I do everything right? 
-Check out this "[How to Play Online Rocket League Tournaments on start.gg](https://help.start.gg/en/articles/3176294-how-to-play-online-rocket-league-tournaments-on-start-gg)" Guide
+Check out this How to Play Online Rocket League Tournaments on start.gg (https://help.start.gg/en/articles/3176294-how-to-play-online-rocket-league-tournaments-on-start-gg) Guide
 
 - Is there anything else that is good to know ahead of playing in the qualifier? 
 You are expected to have read the rules ahead of participating and be respectful towards your opponents and admins. 
