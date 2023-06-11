@@ -163,3 +163,12 @@ def rotp(uid):
     except Exception as e:
         print("An error occurred while resending OTP:", e)
         return "OTP not resent due to " + str(e)
+    
+def is_registered(uid):
+    colnames = ['UserID', 'email', 'otp', 'verified']
+    df = pd.read_csv('email_database.csv', names=colnames, header=None)
+    existing_data = df.loc[df['UserID'] == uid]
+    if not existing_data.empty:
+        return True
+    else:
+        return False
