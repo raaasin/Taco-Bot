@@ -37,7 +37,9 @@ def run_discord_bot():
 
     @bot.tree.command(description="Ask FAQ's", name="ask")
     async def ciao(interaction: discord.Interaction, query:str):
-        await interaction.response.send_message(responses.handle_response(query))
+        await interaction.response.defer()
+        answer_text = responses.handle_response(query)
+        await interaction.followup.send(answer_text)
     
 
 
