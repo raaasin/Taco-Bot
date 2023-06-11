@@ -1,81 +1,66 @@
+import pandas as pd
 import math
 
-# Generate the initial bracket with placeholder values
-def generate_bracket(teams):
-    num_teams = len(teams)
+def extract_team_names_from_csv(csv_file):
+    colnames = ['teamname', 'player1', 'player2', 'player3', 'sub']
+    df = pd.read_csv(csv_file, names=colnames, header=None)
+    team_names = df['teamname'].tolist()
+    return team_names
+
+def gentourney():
+    pass
+
+def generate_double_elimination_bracket(team_names,tourney):
+    team_names = extract_team_names_from_csv('teams.csv')
+    num_teams = len(team_names)
     num_rounds = int(math.ceil(math.log2(num_teams)))
+    num_matches = int(math.pow(2, num_rounds - 1))
 
-    # Calculate the size of the bracket
-    bracket_size = 2 ** num_rounds
+    winners_bracket = []
+    losers_bracket = []
+    for i in range(num_matches):
+        match_id = i + 1
+        team1 = team_names[i * 2]
+        team2 = team_names[i * 2 + 1]
+        winners_bracket.append({'match_id': match_id, 'team1': team1, 'team2': team2, 'winner': None})
 
-    # Generate the initial bracket with placeholder values
-    bracket = [[None] * bracket_size for _ in range(num_rounds)]
-
-    # Fill in the teams in the first round
-    for i, team in enumerate(teams):
-        bracket[0][i] = team
-
+    bracket = {'winners_bracket': winners_bracket, 'losers_bracket': losers_bracket}
     return bracket
 
-# Update the bracket with match results
-def update_bracket(bracket, round_num, match_num, winner):
-    bracket[round_num][match_num] = winner
-
-# Print the bracket
-def print_bracket(bracket):
-    num_rounds = len(bracket)
-    round_width = len(bracket[0])
-
-    for round in range(num_rounds):
-        spacing = round_width // (2 ** (round + 1))
-        for i in range(round_width):
-            if i % (2 * spacing) == 0:
-                print(' ' * spacing, end='')
-
-            if round == 0:
-                print(bracket[round][i].center(spacing * 2), end='')
-            else:
-                match_result = bracket[round][i]
-                if match_result is not None:
-                    print(match_result.center(spacing * 2), end='')
-                else:
-                    print(' ' * (spacing * 2), end='')
-
-        print()
-
-# Example usage
-teams = ['Team A', 'Team B', 'Team C', 'Team D', 'Team E', 'Team F', 'Team G', 'Team H']
-bracket = generate_bracket(teams)
-
-# Initial bracket
-print("Initial Bracket:")
-print_bracket(bracket)
-print()
-
-# Update bracket with match results
-for round_num in range(1, len(bracket)):
-    print(f"Round {round_num} matches:")
-    for match_num in range(len(bracket[round_num])):
-        team1 = bracket[round_num-1][2*match_num]
-        team2 = bracket[round_num-1][2*match_num+1]
-
-        if team1 is None or team2 is None:
+def update_match_result(bracket, match_id, winner):
+    for match in bracket['winners_bracket']:
+        if match['match_id'] == match_id:
+            match['winner'] = winner
+            break
+    
+    for match in bracket['losers_bracket']:
+        if match['match_id'] == match_id:
+            match['winner'] = winner
             break
 
-        print(f"Match {match_num+1}: {team1} vs. {team2}")
+    # Progress teams in the winners' bracket
+    winners_bracket = bracket['winners_bracket']
+    updated_winners_bracket = []
+    for match in winners_bracket:
+        if match['team1'] == winner:
+            updated_winners_bracket.append({'match_id': match['match_id'] // 2, 'team1': winner, 'team2': None, 'winner': None})
+        elif match['team2'] == winner:
+            updated_winners_bracket.append({'match_id': match['match_id'] // 2, 'team1': None, 'team2': winner, 'winner': None})
+        else:
+            updated_winners_bracket.append(match)
+    bracket['winners_bracket'] = updated_winners_bracket
 
-        valid_input = False
-        while not valid_input:
-            winner = input("Enter the winner: ")
-            if winner == team1 or winner == team2:
-                valid_input = True
-            else:
-                print("Invalid input. Please enter the name of one of the teams in the match.")
+    # Progress teams in the losers' bracket
+    losers_bracket = bracket['losers_bracket']
+    updated_losers_bracket = []
+    for match in losers_bracket:
+        if match['team1'] == winner:
+            updated_losers_bracket.append({'match_id': match['match_id'] // 2, 'team1': winner, 'team2': None, 'winner': None})
+        elif match['team2'] == winner:
+            updated_losers_bracket.append({'match_id': match['match_id'] // 2, 'team1': None, 'team2': winner, 'winner': None})
+        else:
+            updated_losers_bracket.append(match)
+    bracket['losers_bracket'] = updated_losers_bracket
 
-        update_bracket(bracket, round_num, match_num, winner)
-
-    print()
-
-# Updated bracket
-print("Updated Bracket:")
-print_bracket(bracket)
+def regtourney():
+    pass
