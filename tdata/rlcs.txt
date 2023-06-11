@@ -1,0 +1,2641 @@
+Rocket League Championship Series - 2022-23 Season Official Rules
+1.
+1.1
+
+Introduction and Acceptance
+Introduction
+
+These Rocket League Championship Series - 2022-23 Season Official Rules (“Rules”) govern all stages of the
+Rocket League Championship Series - 2022-23 Season (“Tournament” or “RLCS 2022-23”) provided by
+Psyonix LLC (“Psyonix”).
+These Rules have been designed to ensure the integrity of competitive play of Rocket League (the “ Rocket
+League”) in connection with the Tournament, and are intended to promote vigorous competition and to help
+ensure that all competitive play of Rocket League is fun, fair, and free from Toxic Behavior (as defined below).
+These Rules may be translated into other languages. In the event of any conflict or inconsistency between any
+translated version of these Rules and the English version of these rules, the English version shall prevail, govern
+and control. Entry into this Tournament does not constitute entry into any other tournament, competition, contest
+or sweepstakes.
+1.2
+
+Acceptance
+
+To participate in the Tournament, each player must agree (or, if a Minor (as defined below)), such player’s parent
+or legal guardian must agree on such player’s behalf) to follow these Rules at all times, including the Code of
+Conduct in Section 7 (“Player”). A Player (or, if a Minor, such Player’s parent or legal guardian) must accept
+these Rules as part of the Tournament registration form, available at https://esports.rocketleague.com/rlcs-rules/.
+By participating in any Game or Match (each as defined below) that is part of the Tournament, a Player is
+confirming that he or she (or, if a Minor, his or her parent or legal guardian) has accepted these Rules pursuant to
+this Section 1.2.
+These Rules also apply to each Team that has been authorized to participate in the Tournament and its owner(s)
+(“Owner”), manager (“Manager”), and coach (“Coach”). The Owner(s) of a Team may be individuals or a legal
+entity, and these Rules apply equally to both. Participation in any Tournament by a Team is conditioned on the
+acceptance of these Rules by the Owner(s), Manager, and Coach of the Team.
+1.3
+
+Enforcement
+
+Psyonix will have primary responsibility for enforcing these Rules and may, working with the Tournament
+Administrators (as defined below), impose sanctions on Players, Owners, Managers, Coaches, and Teams for
+violations of these Rules, as further described in Section 8.
+1.4
+
+Amendments
+
+Psyonix may update, revise, change, or modify these Rules from time to time. Participation in the Tournament
+after any update, revision, change, or modification to these Rules will be deemed acceptance of these Rules as
+updated, revised, changed, or modified.
+2.
+
+Tournament Structure
+
+2.1
+
+Definition of Terms
+Page 1
+
+“APAC”: means Bangladesh, Bhutan, Brunei, India, Indonesia, Japan, Laos, Malaysia, Mongolia, Myanmar,
+Pakistan, the Philippines, Singapore, South Korea, Thailand, Timor-Leste, and Vietnam.
+“Best-of-X”: means a Match that has X number of Games, and the Team that wins a majority of the Games is
+declared the winner. Once a Team wins the number of Games needed to reach the requisite majority, then that
+Team will be declared the winner of the Match, and any Games that have not been played at that point will not
+be played. For example, in a Best-of-Three Match, once a Team wins two Games, that Team will immediately
+be declared the winner of that Match.
+“Eligibility Area”: means APAC, Europe, MENA (as defined below), North America, Oceania, South America,
+and SSA (as defined below).
+“Europe”: means Andorra, Albania, Armenia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia,
+Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Republic of
+Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Moldova, Monaco,
+Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Russia (subject to Section 4.4), San Marino,
+Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey (subject to Section 4.4), Ukraine (excluding the
+regions of Crimea, Donetsk, and Luhansk), United Kingdom of Great Britain and Northern Ireland.
+“Game”: means a single competition between two Teams.
+“Match”: means Tournament play between two Teams that may involve multiple Games, as described in Section
+2.3.
+“MENA”: means Algeria, Azerbaijan, Bahrain, Chad, Djibouti, Egypt, Israel, Jordan, Kazakhstan, Kyrgyzstan,
+Kuwait, Libya, Mauritania, Niger, Oman, Palestine, Qatar, Saudi Arabia, Tajikistan, Tunisia, Turkmenistan,
+United Arab Emirates, and Uzbekistan.
+“North America”: means Bahamas, Canada (excluding Nunavut, Northwest Territories and Yukon), Costa Rica,
+Dominica, Dominican Republic, El Salvador, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, and
+United States (including Puerto Rico, and the US Virgin Islands).
+“Oceania”: means Australia, Fiji, French Polynesia, Kiribati, Marshall Islands, Micronesia, Nauru, New
+Caledonia, New Zealand, Norfolk Island, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu,
+Vanuatu, and Wallis and Futuna.
+“Page Playoff Bracket”: means a phase of the Tournament where Teams are seeded using Round Robin (as
+defined below) Matches and the top Teams play a mix of a Single Elimination Bracket and Double Elimination
+Bracket (each as defined below).
+“Prize Restricted Region”: means Russia and Turkey.
+“Region”: means the RLCS server region in which a Player or Team competes.
+“Registration Website”: means the website start.gg or any subsequent URL which may replace it from time to
+time.
+“RLCS”: means Rocket League Championship Series.
+“RLCS Points”: means the points awarded to a Team based on its finishing position at a Regional or a Major
+(each as defined below).
+Page 2
+
+“Round Robin”: means a phase of the Tournament where each Team plays against every other Team.
+“Rules Website”: means the website https://esports.rocketleague.com/rlcs-rules/ or any subsequent URL which
+may replace it from time to time.
+“South America”: means Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru,
+Suriname, Uruguay, and Venezuela.
+“SSA”: means Angola, Benin, Botswana, Burkina Faso, Cameroon, Cape Verde, Central African Republic,
+Comoros, Congo (Brazzaville), Congo (Democratic Republic), Côte d'Ivoire, Equatorial Guinea, Ethiopia,
+Gabon, The Gambia, Ghana, Guinea-Bissau, Lesotho, Madagascar, Malawi, Mali, Mauritius, Mozambique,
+Namibia, Nigeria, Réunion, Rwanda, Sao Tome and Principe, Senegal, Seychelles, South Africa, Swaziland,
+Togo, Uganda, and Zambia.
+“Swiss”: means a stage of the Tournament with multiple rounds where Teams may not necessarily play against
+every other Team.
+“Team”: means a group of Players who compete in the Tournament together as a unit. A description of Team
+requirements is provided in Section 6.
+“Tournament Administrator”: means any Psyonix employee or member of the admin team, broadcast team,
+production team, event staff, or anyone else otherwise employed or contracted for the purpose of running the
+Tournament (including, without limitation, ESL Gaming GmbH (“ESL”).
+“Tournament Entities”: means Psyonix, the Tournament Administrators, any official sponsors of the
+Tournament, and each of their respective parent, subsidiary and affiliated entities, vendors, agents, and
+representatives, and the officers, directors and employees of all of the foregoing.
+“Winning Player”: means any Player who (a) does not otherwise reside in a Prize Restricted Region and (b) is
+officially declared a Winning Player by Psyonix as set forth in Section 4.
+2.2
+
+Schedule and Format
+
+As set forth more fully in Section 2.3, the Tournament is structured into three (3) separate splits (each, a
+“Split”), each of which includes (a) three (3) RLCS 2022-23 regional tournaments (each, a “Regional”)
+and one major (each, a “Major”), and (b) an Open Qualifier and a Main Event (each as defined below).
+RLCS 2022-23 concludes at the RLCS 2022-23 World Championship (as defined below).
+2.3
+
+Tournament Dates
+
+2.3.1
+
+Tournament Period
+
+The schedule that corresponds to each Tournament stage is outlined in this Section. The dates below are
+shown in the time zone of the applicable region.
+2.3.2
+
+Rescheduling
+
+Psyonix may, in its sole discretion, reorder the schedule and/or change the date for any Match or session of
+the Tournament (or change any Game mode to be played in connection therewith). However, if the
+Tournament schedule is so modified, Psyonix will inform all Players at its earliest convenience.
+
+Page 3
+
+2.3.3
+
+Split 1
+
+APAC Regionals
+Split 1 Regional 1
+● APAC Open Qualifier 1 (October 1, 2022)
+● APAC Open Qualifier 2 (October 2, 2022)
+● APAC Main Event Day 1 (October 8, 2022)
+● APAC Main Event Day 2 (October 9, 2022)
+Split 1 Regional 2
+● APAC Open Qualifier 1 (October 15, 2022)
+● APAC Open Qualifier 2 (October 16, 2022)
+● APAC Main Event Day 1 (October 22, 2022)
+● APAC Main Event Day 2 (October 23, 2022)
+Split 1 Regional 3
+● APAC Main Event Day 1 (November 5, 2022)
+● APAC Main Event Day 2 (November 6, 2022)
+MENA Regionals
+Split 1 Regional 1
+● MENA Open Qualifier 1 (September 30, 2022)
+● MENA Open Qualifier 2 (October 1, 2022)
+● MENA Main Event Day 1 (October 6, 2022)
+● MENA Main Event Day 2 (October 7, 2022)
+● MENA Main Event Day 3 (October 8, 2022)
+Split 1 Regional 2
+● MENA Open Qualifier 1 (October 14, 2022)
+● MENA Open Qualifier 2 (October 15, 2022)
+● MENA Main Event Day 1 (October 20, 2022)
+● MENA Main Event Day 2 (October 21, 2022)
+● MENA Main Event Day 3 (October 22, 2022)
+Split 1 Regional 3
+● MENA Main Event Day 1 (November 3, 2022)
+Page 2
+
+● MENA Main Event Day 2 (November 4, 2022)
+● MENA Main Event Day 3 (November 5, 2022)
+North American Regionals
+Split 1 Regional 1
+● North American Open Qualifier 1 (September 30, 2022)
+● North American Open Qualifier 2 (October 1, 2022)
+● North American Open Qualifier 3 (October 2, 2022)
+● North American Main Event Day 1 (October 7, 2022)
+● North American Main Event Day 2 (October 8, 2022)
+● North American Main Event Day 3 (October 9, 2022)
+Split 1 Regional 2
+● North American Open Qualifier 1 (October 14, 2022)
+● North American Open Qualifier 2 (October 15, 2022)
+● North American Open Qualifier 3 (October 16, 2022)
+● North American Main Event Day 1 (October 21, 2022)
+● North American Main Event Day 2 (October 22, 2022)
+● North American Main Event Day 3 (October 23, 2022)
+Split 1 Regional 3
+● North American Main Event Day 1 (November 4, 2022)
+● North American Main Event Day 2 (November 5, 2022)
+● North American Main Event Day 3 (November 6, 2022)
+European Regionals
+Split 1 Regional 1
+● European Open Qualifier 1 (October 7, 2022)
+● European Open Qualifier 2 (October 8, 2022)
+● European Open Qualifier 3 (October 9, 2022)
+● European Main Event Day 1 (October 14, 2022)
+● European Main Event Day 2 (October 15, 2022)
+● European Main Event Day 3 (October 16, 2022)
+Split 1 Regional 2
+Page 3
+
+● European Open Qualifier 1 (October 21, 2022)
+● European Open Qualifier 2 (October 22, 2022)
+● European Open Qualifier 3 (October 23, 2022)
+● European Main Event Day 1 (October 28, 2022)
+● European Main Event Day 2 (October 29, 2022)
+● European Main Event Day 3 (October 30, 2022)
+Split 1 Regional 3
+● European Main Event Day 1 (November 11, 2022)
+● European Main Event Day 2 (November 12, 2022)
+● European Main Event Day 3 (November 13, 2022)
+Oceania Regionals
+Split 1 Regional 1
+● Oceania Open Qualifier 1 (October 1, 2022)
+● Oceania Open Qualifier 2 (October 2, 2022)
+● Oceania Main Event Day 1 (October 14, 2022)
+● Oceania Main Event Day 2 (October 15, 2022)
+● Oceania Main Event Day 3 (October 16, 2022)
+Split 1 Regional 2
+● Oceania Open Qualifier 1 (October 22, 2022)
+● Oceania Open Qualifier 2 (October 23, 2022)
+● Oceania Main Event Day 1 (October 28, 2022)
+● Oceania Main Event Day 2 (October 29, 2022)
+● Oceania Main Event Day 3 (October 30, 2022)
+Split 1 Regional 3
+● Oceania Main Event Day 1 (November 11, 2022)
+● Oceania Main Event Day 2 (November 12, 2022)
+● Oceania Main Event Day 3 (November 13, 2022)
+South America Regionals
+Split 1 Regional 1
+● South America Open Qualifier 1 (October 8, 2022)
+Page 4
+
+● South America Open Qualifier 2 (October 9, 2022)
+● South America Main Event Day 1 (October 14, 2022)
+● South America Main Event Day 2 (October 15, 2022)
+● South America Main Event Day 3 (October 16, 2022)
+Split 1 Regional 2
+● South America Open Qualifier 1 (October 22, 2022)
+● South America Open Qualifier 2 (October 23, 2022)
+● South America Main Event Day 1 (October 28, 2022)
+● South America Main Event Day 2 (October 29, 2022)
+● South America Main Event Day 3 (October 30, 2022)
+Split 1 Regional 3
+● South America Main Event Day 1 (November 4, 2022)
+● South America Main Event Day 2 (November 5, 2022)
+● South America Main Event Day 3 (November 6, 2022)
+SSA Regionals
+Split 1 Regional 1
+● SSA Open Qualifier 1 (October 8, 2022)
+● SSA Open Qualifier 2 (October 9, 2022)
+● SSA Main Event Day 1 (October 14, 2022)
+● SSA Main Event Day 2 (October 15, 2022)
+● SSA Main Event Day 3 (October 16, 2022)
+Split 1 Regional 2
+● SSA Open Qualifier 1 (October 22, 2022)
+● SSA Open Qualifier 2 (October 23, 2022)
+● SSA Main Event Day 1 (October 28, 2022)
+● SSA Main Event Day 2 (October 29, 2022)
+● SSA Main Event Day 3 (October 30, 2022)
+Split 1 Regional 3
+● SSA Main Event Day 1 (November 11, 2022)
+● SSA Main Event Day 2 (November 12, 2022)
+
+Page 5
+
+● SSA Main Event Day 3 (November 13, 2022)
+2.3.3.1 Split 1 Regional 1 Open Qualifiers
+Teams will first be entered into the Open Qualifier stage for Split 1 Regional 1 of the applicable region in
+which they are registered (“Split 1 Regional 1 Open Qualifier”).
+2.3.3.1.1 Split 1 Regional 1 Open Qualifier (Europe, North America)
+The Split 1 Regional 1 Open Qualifier consists of up to three (3) days of Matches, and seeding for each day
+of a Split 1 Regional 1 Open Qualifier will be determined by Psyonix and/or Tournament Administrators
+at their discretion.
+Day 1 will consist of a double elimination bracket (“Double Elimination Bracket”), meaning that a Team
+will not be eligible to advance if it loses two Matches in the bracket. The top forty-eight (48) Teams will
+advance to Day 2 of the Split 1 Regional 1 Open Qualifier.
+Day 1 will also consist of a separate group of sixteen (16) Teams, with each Team competing in Swiss
+Matches against other Teams within the group. If a Team wins three (3) Matches during this stage, it will
+advance to the Split 1 Main Event (as defined below). If a Team loses three (3) Matches during this stage,
+it will advance to Day 3 of the Split 1 Open Qualifier for Regional 1. Each Match will be Best-of-Five.
+Day 2 will consist of a Double Elimination Bracket with the top eight (8) Teams advancing to Day 3 of the
+Split 1 Regional 1 Open Qualifier. All Matches on Day 2 will be Best-of-Five.
+Day 3 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches a gainst
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 1 Main Event. All Matches on Day 3 will be Best-of-Five. Except as otherwise provided herein, the
+final eight (8) Teams remaining at the conclusion of Day 3 will qualify to participate in the Split 1 Main
+Event.
+Notwithstanding the foregoing, a fourth day of Split 1 Regional 1 Open Qualifiers may be added at Psyonix
+and/or Tournament Administrator’s discretion, in which case the top Teams f rom Day 3 will advance
+instead to Day 4 to participate in a final Split 1 Regional 1 Open Qualifier Double Elimination Bracket. All
+Matches on Day 4 (if applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day
+4 (if applicable) will qualify to participate in the Split 1 Main Event.
+2.3.3.1.2 Split 1 Regional 1 Open Qualifier (APAC, MENA, Oceania, South America, and SSA)
+The Split 1 Regional 1 Open Qualifier consists of up to two (2) days of Matches, and seeding for each day
+of a Split 1 Regional 1 Open Qualifier will be determined by Psyonix and/or Tournament Administrators
+at their discretion.
+Day 1 will consist of a Double Elimination Bracket where the top eight (8) Teams from Day 1 will advance
+to Day 2.
+Day 1 will also consist of a separate group of sixteen (16) Teams, with each Team competing in Swiss
+Matches against other Teams within the group. If a Team in this group wins three (3) Matches during this
+stage, it will advance to the Split 1 Main Event. If a Team loses three (3) Matches during this stage, it will
+advance to Day 2 of the Split 1 Regional 1 Open Qualifier. Each Match will be Best-of-Five.
+Page 6
+
+Day 2 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches against
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 1 Main Event. All Matches on Day 2 will be Best-of-Five. Except as otherwise provided herein, the
+final eight (8) Teams remaining at the conclusion of Day 2 will qualify to participate in the Split 1 Main
+Event.
+Notwithstanding the foregoing, a third day of Split 1 Regional 1 Open Qualifiers may be added at Psyonix
+and/or Tournament Administrator’s discretion, in which case the top Teams from Day 2 will advance
+instead to Day 3 to participate in a final Split 1 Regional 1 Open Qualifier Double Elimination Bracket. All
+Matches on Day 3 (if applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day
+3 (if applicable) will qualify to participate in the Split 1 Main Event.
+2.3.3.2 Split 1 Regional 2 Open Qualifiers
+Teams will first be entered into the Open Qualifier stage for Split 1 Regional 2 of the applicable region in
+which they are registered (“Split 1 Regional 2 Open Qualifier”).
+2.3.3.2.1 Split 1 Regional 2 Open Qualifiers (Europe, North America)
+The Split 1 Regional 2 Open Qualifier consists of up to three (3) days of Matches, and seeding for each day
+of a Split 1 Regional 2 Open Qualifier will be determined by Psyonix and/or Tournament Administrators
+at their discretion.
+Day 1 will consist of a Double Elimination Bracket with each Match being Best-of-Three except for
+Winners’ Finals and Losers’ Semi-Finals. All Matches in the Winners’ Finals and Losers’ Semi-Finals will
+be Best-of-Five. The top forty-eight (48) Teams from Day 1 will advance to Day 2.
+Day 2 will consist of a Double Elimination Bracket with each Match being Best-of-Five. The top eight (8)
+Teams from Day 2 will advance to Day 3, joining Teams ranking 9 th – 16 th in RLCS points.
+Day 3 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches against
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 1 Main Event. All Matches on Day 3 will be Best-of-Five. Except as otherwise provided herein, the
+final eight (8) Teams remaining at the conclusion of Day 3 will qualify to participate in the Split 1 Main
+Event.
+Notwithstanding the foregoing, a fourth day of Split 1 Regional 2 Open Qualifiers may be added at Psyonix
+and/or Tournament Administrator’s discretion, in which case the top Teams from Day 3 will advance
+instead to Day 4 to participate in a final Split 1 Regional 2 Open Qualifier Double Elimination Bracket. All
+Matches on Day 4 (if applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day
+4 (if applicable) will qualify to participate in the Split 1 Main Event.
+2.3.3.2.2 Split 1 Regional 2 Open Qualifiers (APAC, MENA, Oceania, South America, and SSA)
+The Split 1 Regional 2 Open Qualifier consists of up to two (2) days of Matches, and seeding for each day
+of a Split 1 Regional 2 Open Qualifier will be determined by Psyonix and/or Tournament Administrators
+at their discretion.
+Day 1 will consist of a Double Elimination Bracket where the top eight (8) Teams from Day 1 will advance
+to Day 2, joining Teams ranking 9 th – 16 th in RLCS points.
+Page 7
+
+Day 2 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches against
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 1 Main Event. All Matches on Day 2 will be Best-of-Five. Except as otherwise provided herein, the
+final eight (8) Teams remaining at the conclusion of Day 2 will qualify to participate in the Split 1 Main
+Event.
+Notwithstanding the foregoing, a third day of Split 1 Regional 2 Open Qualifiers may be added at Psyonix
+and/or Tournament Administrator’s discretion, in which case the top Teams from Day 2 will advance
+instead to Day 3 to participate in a final Split 1 Regional 2 Open Qualifier Double Elimination Bracket. All
+Matches on Day 3 (if applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day
+3 (if applicable) will qualify to participate in the Split 1 Main Event.
+
+2.3.3.3 Split 1 Regional 3 Invitations (All Regions)
+The top sixteen (16) Teams in RLCS points will be granted an invitation to participate in Day 1 of the Split
+1 Regional 3 (“Split 1 Regional 3”).
+In the event of a tie among Teams for invitations to participate in the Split 1 Regional 3, a tiebreaker will
+be played as set out in Section 2.3.7.
+Notwithstanding the foregoing, in the event that fewer than sixteen (16) Teams have earned RLCS points,
+Teams without RLCS points will participate in a final Split 1 Regional 3 Open Qualifier Double Elimination
+Bracket. The final Teams remaining will qualify to participate in the Split 1 Main Event.
+2.3.3.4 Split 1 Main Event
+In the Main Event stage for Split 1 (“Split 1 Main Event”), sixteen (16) Teams will compete across a total
+of two (2) stages, and seeding for each stage of the Split 1 Main Event will be determined by Psyonix and/or
+Tournament Administrators at their discretion. It will not be possible to enter the Split 1 Main Event without
+advancing from the Split 1 Regional Open Qualifiers or receiving an invitation to the Split 1 Regional 3 as
+set out in Sections 2.3.3.1, 2.3.3.2, or 2.3.3.3 (as applicable).
+The first stage of the Split 1 Main Event will consist of one group of sixteen (16) Teams, with each Team
+competing in Swiss Matches against other Teams within the group. If a Team wins three (3) Matches during
+this stage, it will advance to the second stage of the Split 1 Main Event. If a Team loses three (3) Matches
+during this stage, it will be eliminated from the Tournament. Eight (8) teams from the group will advance
+to the second stage of the Split 1 Main Event.
+All Matches for the first stage of the Split 1 Main Event will be Best-of-Five.
+The second stage of the Split 1 Main Event will consist of an eight (8) Team single elimination bracket
+(“Single Elimination Bracket”). All Matches for the second stage of the Split 1 Main Event will be Bestof-Seven.
+2.3.3.5 Fall Major
+Split 1 will culminate with the RLCS 2022-23 Fall Major (“Fall Major”) comprised of the top sixteen (16)
+Teams in cumulative RLCS Points for Split 1 from across all Regions, as follows:
+Page 8
+
+•
+•
+•
+•
+•
+•
+
+North America: Five (5) Teams
+Europe: Five (5) Teams
+Oceania: Two (2) Teams
+South America: Two (2) Teams
+APAC: One (1) Team
+MENA: One (1) Team
+
+In the Fall Major, sixteen (16) Teams will compete across a total of two (2) stages, and seeding for each
+stage of the Fall Major will be determined using the method set out in Section 2.3.9.
+The first stage of the Fall Major will consist of one group of sixteen (16) Teams, with each Team competing
+in Swiss Matches against other Teams within the group. If a Team wins three (3) Matches during this stage,
+it will advance to the second stage of the Fall Major. If a Team loses three (3) Matches during this stage, it
+will be eliminated from the Tournament.
+All Matches for the first stage of the Fall Major will be Best-of-Five.
+The second stage of the Fall Major will consist of an eight (8) Team Single Elimination Bracket. All
+Matches for the second stage will be Best-of-Seven.
+2.3.3.6 Points Structure
+Split 1
+Place
+
+Teams Total
+
+Regional Points
+
+Major Points
+
+1st
+
+1
+
+16
+
+32
+
+2nd
+
+1
+
+12
+
+24
+
+T-3rd
+
+2
+
+9
+
+18
+
+T-5th
+
+4
+
+6
+
+12
+
+T-9th
+
+3
+
+4
+
+8
+
+T-12th
+
+3
+
+3
+
+6
+
+T-15th
+
+2
+
+2
+
+4
+
+95
+
+190
+
+Total Points
+
+2.3.4
+
+Split 2
+
+APAC Regionals
+
+Page 9
+
+Split 2 Regional 1
+● APAC Open Qualifier 1 (January 21, 2023)
+● APAC Open Qualifier 2 (January 22, 2023)
+● APAC Main Event Day 1 (January 28, 2023)
+● APAC Main Event Day 2 (January 29, 2023)
+Split 2 Regional 2
+● APAC Open Qualifier 1 (February 4, 2023)
+● APAC Open Qualifier 2 (February 5, 2023)
+● APAC Main Event Day 1 (February 11, 2023)
+● APAC Main Event Day 2 (February 12, 2023)
+Split 2 Regional 3
+● APAC Main Event Day 1 (February 25, 2023)
+● APAC Main Event Day 2 (February 26, 2023)
+MENA Regionals
+Split 2 Regional 1
+● MENA Open Qualifier 1 (January 27, 2023)
+● MENA Open Qualifier 2 (January 28, 2023)
+● MENA Main Event Day 1 (February 2, 2023)
+● MENA Main Event Day 2 (February 3, 2023)
+● MENA Main Event Day 3 (February 4, 2023)
+Split 2 Regional 2
+● MENA Open Qualifier 1 (February 10, 2023)
+● MENA Open Qualifier 2 (February 11, 2023)
+● MENA Main Event Day 1 (February 16, 2023)
+● MENA Main Event Day 2 (February 17, 2023)
+● MENA Main Event Day 3 (February 18, 2023)
+Split 2 Regional 3
+● MENA Main Event Day 1 (March 2, 2023)
+● MENA Main Event Day 2 (March 3, 2023)
+● MENA Main Event Day 3 (March 4, 2023)
+
+Page 10
+
+North American Regionals
+Split 2 Regional 1
+● North American Open Qualifier 1 (January 27, 2023)
+● North American Open Qualifier 2 (January 28, 2023)
+● North American Open Qualifier 3 (January 29, 2023)
+● North American Main Event Day 1 (February 3, 2023)
+● North American Main Event Day 2 (February 4, 2023 )
+● North American Main Event Day 3 (February 5, 2023)
+Split 2 Regional 2
+● North American Open Qualifier 1 (February 10, 2023)
+● North American Open Qualifier 2 February 11, 2023 )
+● North American Open Qualifier 3 (February 12, 2023)
+● North American Main Event Day 1 (February 17, 2023)
+● North American Main Event Day 2 (February 18, 2023)
+● North American Main Event Day 3 (February 19, 2023)
+Split 2 Regional 3
+● North American Main Event Day 1 (March 3, 2023)
+● North American Main Event Day 2 (March 4, 2023)
+● North American Main Event Day 3 (March 5, 2023)
+European Regionals
+Split 2 Regional 1
+● European Open Qualifier 1 (January 20, 2023)
+● European Open Qualifier 2 (January 21, 2023)
+● European Open Qualifier 3 (January 22, 2023)
+● European Main Event Day 1 (January 27, 2023)
+● European Main Event Day 2 (January 28, 2023)
+● European Main Event Day 3 (January 29, 2023)
+Split 2 Regional 2
+● European Open Qualifier 1 (February 3, 2023)
+● European Open Qualifier 2 (February 4, 2023)
+
+Page 11
+
+● European Open Qualifier 3 (February 5, 2023)
+● European Main Event Day 1 (February 10, 2023)
+● European Main Event Day 2 (February 11, 2023)
+● European Main Event Day 3 (February 12, 2023)
+Split 2 Regional 3
+● European Main Event Day 1 (February 24, 2023)
+● European Main Event Day 2 (February 25, 2023)
+● European Main Event Day 3 (February 26, 2023)
+Oceania Regionals
+Split 2 Regional 1
+● Oceania Open Qualifier 1 (January 28, 2023)
+● Oceania Open Qualifier 2 (January 29, 2023)
+● Oceania Main Event Day 1 (February 3, 2023)
+● Oceania Main Event Day 2 (February 4, 2023)
+● Oceania Main Event Day 3 (February 5, 2023)
+Split 2 Regional 2
+● Oceania Open Qualifier 1 (February 11, 2023)
+● Oceania Open Qualifier 2 (February 12, 2023)
+● Oceania Main Event Day 1 (February 17, 2023)
+● Oceania Main Event Day 2 (February 18, 2023)
+● Oceania Main Event Day 3 (February 19, 2023)
+Split 2 Regional 3
+● Oceania Main Event Day 1 (March 3, 2023)
+● Oceania Main Event Day 2 (March 4, 2023)
+● Oceania Main Event Day 3 (March 5, 2023)
+South America Regionals
+Split 2 Regional 1
+● South American Open Qualifier 1 (January 21, 2023)
+● South American Open Qualifier 2 (January 22, 2023)
+● South American Main Event Day 1 (January 27, 2023)
+Page 12
+
+● South American Main Event Day 2 (January 28, 2023)
+● South American Main Event Day 3 (January 29, 2023)
+Split 2 Regional 2
+● South American Open Qualifier 1 (February 4, 2023)
+● South American Open Qualif ier 2 (February 5, 2023)
+● South American Main Event Day 1 (February 10, 2023)
+● South American Main Event Day 2 (February 11, 2023)
+● South American Main Event Day 3 (February 12, 2023)
+Split 2 Regional 3
+● South American Main Event Day 1 (February 24, 2023)
+● South American Main Event Day 2 (February 25, 2023)
+● South American Main Event Day 3 (February 26, 2023)
+SSA Regionals
+Split 2 Regional 1
+● SSA Open Qualifier 1 (January 21, 2023)
+● SSA Open Qualifier 2 (January 22, 2023)
+● SSA Main Event Day 1 (January 27, 2023)
+● SSA Main Event Day 2 (January 28, 2023)
+● SSA Main Event Day 3 (January 29, 2023)
+Split 2 Regional 2
+● SSA Open Qualifier 1 (February 4, 2023)
+● SSA Open Qualifier 2 (February 5, 2023)
+● SSA Main Event Day 1 (February 10, 2023)
+● SSA Main Event Day 2 (February 11, 2023)
+● SSA Main Event Day 3 (February 12, 2023)
+Split 2 Regional 3
+● SSA Main Event Day 1 (February 24, 2023)
+● SSA Main Event Day 2 (February 25, 2023)
+● SSA Main Event Day 3 (February 26, 2023)
+2.3.4.1 Split 2 Regional 1 and 2 Open Qualifiers (Europe, North America)
+Page 13
+
+Teams will be entered into the Open Qualifier stage for Split 2 Regional 1 and/or Split 2 Regional 2 of the
+applicable region in which they are registered (as applicable, the “Split 2 Regional 1 Open Qualifier” and
+“Split 2 Regional 2 Open Qualifier”, and collectively, the “Split 2 Open Qualifiers”). Each Split 2 Open
+Qualifier consists of up to three (3) days of Matches, and seeding for each day of a Split 2 Open Qualifier
+will be determined by Psyonix and/or Tournament Administrators at their discretion.
+Day 1 will consist of a Double Elimination Bracket with each Match being Best-of-Three except for
+Winners’ Finals and Losers’ Semi-Finals. All Matches in the Winners’ Finals and Losers’ Semi-Finals will
+be Best-of-Five. The top forty-eight (48) Teams from Day 1 will advance to Day 2.
+Day 2 will consist of a Double Elimination Bracket with each Match being Best-of-Five. The top eight (8)
+Teams from Day 2 will advance to Day 3, joining Teams ranking 9 th – 16 th in RLCS points.
+Day 3 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches against
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 2 Main Event (as defined below). All Matches on Day 3 will be Best-of-Five. Except as otherwise
+provided herein, the final eight (8) Teams remaining at the conclusion of Day 3 will qualify to participate
+in the Split 2 Main Event.
+Notwithstanding the foregoing, a fourth day of Split 2 Open Qualifiers may be added at Psyonix and/or
+Tournament Administrator’s discretion, in which case the top Teams from Day 3 will advance instead to
+Day 4 to participate in a final Split 2 Open Qualifier Double Elimination Bracket. All Matches on Day 4 (if
+applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day 4 (if applicable) will
+qualify to participate in the Split 2 Main Event.
+2.3.4.2 Split 2 Regional 1 and 2 Open Qualifiers (APAC, MENA, Oceania, South America, and SSA)
+Teams will be entered into the Split 2 Regional 1 Open Qualifier and/or Split 2 Regional 2 Open Qualifier
+of the applicable region in which they are registered . Each Split 2 Open Qualifier consists of up to two (2)
+days of Matches, and seeding for each day of a Split 2 Open Qualifier will be determined by Psyonix and/or
+Tournament Administrators at their discretion.
+Day 1 will consist of a Double Elimination Bracket where the top eight (8) Teams from Day 1 will advance
+to Day 2, joining Teams ranking 9 th – 16 th in RLCS points.
+Day 2 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches against
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 2 Main Event. All Matches on Day 2 will be Best-of-Five. Except as otherwise provided herein, the
+final eight (8) Teams remaining at the conclusion of Day 2 will qualify to participate in the Split 2 Main
+Event.
+Notwithstanding the foregoing, a third day of Split 2 Open Qualifiers may be added at Psyonix and/or
+Tournament Administrator’s discretion, in which case the top Teams from Day 2 will advance instead to
+Day 3 to participate in a final Split 2 Open Qualifier Double Elimination Bracket. All Matches on Day 3 (if
+applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day 3 (if applicable) will
+qualify to participate in the Split 2 Main Event.
+2.3.4.3 Split 2 Regional 3 Invitations (All Regions)
+
+Page 14
+
+The top sixteen (16) Teams in RLCS points will be granted an invitation to participate in Day 1 of the Split
+2 Regional 3 (“Split 2 Regional 3”).
+In the event of a tie among Teams for invitations to participate in the Split 2 Regional 3, a tiebreaker will
+be played as set out in Section 2.3.7.
+Notwithstanding the foregoing, in the event that fewer than sixteen (16) Teams have earned RLCS points,
+Teams without RLCS points will participate in a final Split 2 Regional 3 Open Qualifier Double Elimination
+Bracket. The final Teams remaining will qualify to participate in the Split 2 Main Event.
+2.3.4.4 Split 2 Main Event
+In the Main Event stage for Split 2 (“Split 2 Main Event”), sixteen (16) Teams will compete in a total of
+two (2) stages, and seeding for such stage of the Split 2 Main Event will be determined using the method
+set out in Section 2.3.8. It will not be possible to enter the Split 2 Main Event without advancing from the
+Split 2 Regional Open Qualifiers or receiving an invitation to the Split 2 Regional 3 as set out in Sections
+2.3.4.1, 2.3.4.2, or 2.3.4.3 (as applicable).
+The first stage of the Split 2 Main Event will consist of four (4) groups of four (4) Teams, with each Team
+competing in Round Robin Matches against every other Team within its group. All Round Robin Matches
+will be Best-of-Five.
+The first place Team of each group will advance to the Quarter-Finals of the second stage of the Split 2
+Main Event. The second and third place Teams will advance to Round 1 of the second stage of the Split 2
+Main Event. The fourth place Team will be eliminated from the Tournament. In the event of a tie between
+Teams within a group, tiebreakers will be determined in the manner set out in Section 2.3.4.4.1.
+The second stage of the Split 2 Main Event will consist of a twelve (12) Team Single Elimination Bracket.
+All Matches in Round 1 will be Best-of-Five. All Matches in the Quarter-Finals, Semi-Finals, Grand Finals
+will be Best-of-Seven.
+2.3.4.4.1 Split 2 Main Event Tiebreakers
+In the event of a tie at the conclusion of any Split 2 Main Event Round Robin Match, the tied Teams
+within a group will be seeded in the following order:
+1.
+2.
+3.
+4.
+
+Match record
+Game differential against tied Teams
+Game differential
+Initial Seed
+
+In the event that three (3) Teams are tied, then once a tie between three (3) Teams is broken so that only
+two (2) Teams remain tied, Psyonix and/or Tournament Administrators will return to Step 1 and apply
+tiebreakers to the two (2) remaining Teams.
+2.3.4.5 Winter Major
+Split 2 will culminate with the RLCS 2022-23 Winter Major (“Winter Major”) comprised of the top
+sixteen (16) Teams in cumulative RLCS Points for Split 2 from across all Regions, as follows:
+
+Page 15
+
+•
+•
+•
+•
+•
+•
+
+North America: Five (5) Teams
+Europe: Five (5) Teams
+Oceania: Two (2) Teams
+South America: Two (2) Teams
+APAC: One (1) Team
+MENA: One (1) Team
+
+In the Winter Major, sixteen (16) Teams will compete across a total of two (2) stages, and seeding for each
+stage of the Winter Major will be determined using the method set out in Section 2.3.9.
+The first stage of the Winter Major will consist of four (4) groups of four (4) Teams, with each Team
+competing in Round Robin Matches against every other Team within its group. All Round Robin Matches
+will be Best-of-Five.
+The first place Team of each group will advance to the Quarter-finals of the second stage of the Winter
+Major. The second and third place Teams will advance to Round 1 of the second stage of the Winter Major.
+The fourth place Team will be eliminated from the Tournament. In the event of a tie between Teams within
+a group, tiebreakers will be determined in the manner set out in Section 2.3.4. 5.1.
+The second stage of the Winter Major will consist of a twelve (12) Team Single Elimination Bracket. All
+Matches in Round 1 will Best-of-Five. All Matches in the Quarter-Finals, Semi-Finals, Grand Finals will
+be Best-of-Seven.
+2.3.4.5.1 Winter Major Tiebreakers
+In the event of a tie at the conclusion of any Winter Major Round Robin Match, the tied Teams within a
+group will be seeded in the following order:
+1.
+2.
+3.
+4.
+
+Match record
+Game differential against tied teams
+Game differential
+Initial Seed
+
+2.3.4.6 Points Structure
+Split 2
+Place
+
+Teams Total
+
+Regional Points
+
+Major Points
+
+1st
+
+1
+
+20
+
+40
+
+2nd
+
+1
+
+16
+
+32
+
+T-3rd
+
+2
+
+12
+
+24
+
+T-5th
+
+4
+
+8
+
+16
+
+T-9th
+
+4
+
+5
+
+10
+
+T-13th
+
+4
+
+3
+
+6
+
+124
+
+248
+
+Total Points
+
+Page 16
+
+2.3.5 Split 3
+APAC Regionals
+Split 3 Regional 1
+● APAC Open Qualifier 1 (May 6, 2023)
+● APAC Open Qualifier 2 (May 7, 2023)
+● APAC Main Event Day 1 (May 13, 2023)
+● APAC Main Event Day 2 (May 14, 2023)
+Split 3 Regional 2
+● APAC Open Qualifier 1 (May 20, 2023)
+● APAC Open Qualifier 2 (May 21, 2023)
+● APAC Main Event Day 1 (May 27, 2023)
+● APAC Main Event Day 2 (May 28, 2023)
+Split 3 Regional 3
+● APAC Main Event Day 1 (June 10, 2023)
+● APAC Main Event Day 2 (June 11, 2023)
+MENA Regionals
+Split 3 Regional 1
+● MENA Open Qualifier 1 (April 28, 2023)
+● MENA Open Qualifier 2 (April 29, 2023)
+● MENA Main Event Day 1 (May 4, 2023)
+● MENA Main Event Day 2 (May 5, 2023)
+● MENA Main Event Day 3 (May 6, 2023)
+Split 3 Regional 2
+● MENA Open Qualifier 1 (May 12, 2023)
+● MENA Open Qualifier 2 (May 13, 2023)
+● MENA Main Event Day 1 (May 18, 2023)
+● MENA Main Event Day 2 (May 19, 2023)
+● MENA Main Event Day 3 (May 20, 2023)
+Split 3 Regional 3
+● MENA Main Event Day 1 (June 1, 2023)
+Page 17
+
+● MENA Main Event Day 2 (June 2, 2023)
+● MENA Main Event Day 3 (June 3, 2023)
+North American Regionals
+Split 3 Regional 1
+● North American Open Qualifier 1 (April 28, 2023)
+● North American Open Qualifier 2 (April 29, 2023)
+● North American Open Qualifier 3 (April 30, 2023)
+● North American Main Event Day 1 (May 5, 2023)
+● North American Main Event Day 2 (May 6, 2023)
+● North American Main Event Day 3 (May 7, 2023)
+Split 3 Regional 2
+● North American Open Qualifier 1 (May 12, 2023)
+● North American Open Qualifier 2 (May 13, 2023)
+● North American Open Qualifier 3 (May 14, 2023)
+● North American Main Event Day 1 (May 19, 2023)
+● North American Main Event Day 2 (May 20, 2023)
+● North American Main Event Day 3 (May 21, 2023)
+Split 3 Regional 3
+● North American Main Event Day 1 (June 16, 2023)
+● North American Main Event Day 2 (June 17, 2023)
+● North American Main Event Day 3 (June 18, 2023)
+European Regionals
+Split 3 Regional 1
+● European Open Qualifier 1 (May 5, 2023)
+● European Open Qualifier 2 (May 6, 2023)
+● European Open Qualifier 3 (May 7, 2023)
+● European Main Event Day 1 (May 12, 2023)
+● European Main Event Day 2 (May 13, 2023)
+● European Main Event Day 3 (May 14, 2023)
+Split 3 Regional 2
+Page 18
+
+● European Open Qualifier 1 (May 19, 2023)
+● European Open Qualifier 2 (May 20, 2023)
+● European Open Qualifier 3 (May 21, 2023)
+● European Main Event Day 1 (May 26, 2023)
+● European Main Event Day 2 (May 27, 2023)
+● European Main Event Day 3 (May 28, 2023)
+Split 3 Regional 3
+● European Main Event Day 1 (June 9, 2023)
+● European Main Event Day 2 (June 10, 2023)
+● European Main Event Day 3 (June 11, 2023)
+Oceania Regionals
+Split 3 Regional 1
+● Oceania Open Qualifier 1 (April 29, 2023)
+● Oceania Open Qualifier 2 (April 30, 2023)
+● Oceania Main Event Day 1 (May 5, 2023)
+● Oceania Main Event Day 2 (May 6, 2023)
+● Oceania Main Event Day 3 (May 7, 2023)
+Split 3 Regional 2
+● Oceania Open Qualifier 1 (May 13, 2023)
+● Oceania Open Qualifier 2 (May 14, 2023)
+● Oceania Main Event Day 1 (May 19, 2023)
+● Oceania Main Event Day 2 (May 20, 2023)
+● Oceania Main Event Day 3 (May 21, 2023)
+Split 3 Regional 3
+● Oceania Main Event Day 1 (June 2, 2023)
+● Oceania Main Event Day 2 (June 3, 2023)
+● Oceania Main Event Day 3 (June 4, 2023)
+South America Regionals
+Split 3 Regional 1
+● South American Open Qualifier 1 (May 6, 2023)
+Page 19
+
+● South American Open Qualifier 2 (May 7, 2023)
+● South American Main Event Day 1 (May 12, 2023)
+● South American Main Event Day 2 (May 13, 2023)
+● South American Main Event Day 3 (May 14, 2023)
+Split 3 Regional 2
+● South American Open Qualifier 1 (May 20, 2023)
+● South American Open Qualifier 2 (May 21, 2023)
+● South American Main Event Day 1 (May 26, 2023)
+● South American Main Event Day 2 (May 27, 2023)
+● South American Main Event Day 3 (May 28, 2023)
+Split 3 Regional 3
+● South American Main Event Day 1 (June 9, 2023)
+● South American Main Event Day 2 (June 10, 2023)
+● South American Main Event Day 3 (June 11, 2023)
+SSA Regionals
+Split 3 Regional 1
+● SSA Open Qualifier 1 (May 6, 2023)
+● SSA Open Qualifier 2 (May 7, 2023)
+● SSA Main Event Day 1 (May 12, 2023)
+● SSA Main Event Day 2 (May 13, 2023)
+● SSA Main Event Day 3 (May 14, 2023)
+Split 3 Regional 2
+● SSA Open Qualifier 1 (May 20, 2023)
+● SSA Open Qualifier 2 (May 21, 2023)
+● SSA Main Event Day 1 (May 26, 2023)
+● SSA Main Event Day 2 (May 27, 2023)
+● SSA Main Event Day 3 (May 28, 2023)
+Split 3 Regional 3
+● SSA Main Event Day 1 (June 9, 2023)
+● SSA Main Event Day 2 (June 10, 2023)
+● SSA Main Event Day 3 (June 11, 2023)
+Page 20
+
+2.3.5.1 Split 3 Regional 1 and 2 Open Qualifiers (Europe, North America)
+Teams will be entered into the Open Qualifier stage for Split 3 Regional 1 and/or Split 3 Regional 2 of the
+applicable Region in which they are registered (as applicable, the “Split 3 Regional 1 Open Qualifier”
+and “Split 3 Regional 2 Open Qualifier”, and collectively, the “Split 3 Open Qualifiers”). Each Split 3
+Open Qualifier consists of up to three (3) days of Matches, and seeding for each day of a Split 3 Open
+Qualifier will be determined by Psyonix and/or Tournament Administrators at their discretion .
+Day 1 will consist of a Double Elimination Bracket with each Match being Best-of-Three except for
+Winners’ Finals and Losers’ Semi-Finals. All Matches in the Winners’ Finals and Losers’ Semi-Finals will
+be Best-of-Five. The top forty-eight (48) Teams from Day 1 will advance to Day 2. All Matches on Day 2
+will be Best-of-Five.
+Day 2 will consist of a Double Elimination Bracket with each Match being Best-of-Five. The top eight (8)
+Teams from Day 2 will advance to Day 3, joining teams ranking 9 th – 16 th in RLCS Points.
+Day 3 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches against
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 3 Main Event (as defined below). All Matches on Day 3 will be Best-of-Five. Except as otherwise
+provided herein, the final eight (8) Teams remaining at the conclusion of Day 3 will qualify to participate
+in the Split 3 Main Event.
+Notwithstanding the foregoing, a fourth day of Split 3 Open Qualifiers may be added a t Psyonix and/or
+Tournament Administrator’s discretion, in which case the top Teams from Day 3 will advance instead to
+Day 4 to participate in a final Split 3 Open Qualifier Double Elimination Bracket. All Matches on Day 4 (if
+applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day 4 (if applicable) will
+qualify to participate in the Split 3 Main Event.
+2.3.5.2 Split 3 Regional 1 and 2 Open Qualifiers (APAC, MENA, Oceania, South America, and SSA)
+Teams will be entered into the Split 3 Regional 1 Open Qualifier and/or Split 3 Regional 2 Open Qualifier
+of the applicable region in which they are registered. Each Split 3 Open Qualifier consists of up to two (2)
+days of Matches, and seeding for each day of a Split 3 Open Qualifier will be determined by Psyonix and/or
+Tournament Administrators at their discretion.
+Day 1 will consist of a Double Elimination Bracket where the top eight (8) Teams from Day 1 will advance
+to Day 2, joining Teams ranking 9 th – 16 th in RLCS points.
+Day 2 will consist of one group of sixteen (16) Teams, with each Team competing in Swiss Matches against
+other Teams within the group. If a Team wins three (3) Matches during this stage, it will advance to the
+Split 3 Main Event. All Matches on Day 2 will be Best-of-Five. Except as otherwise provided herein, the
+final eight (8) Teams remaining at the conclusion of Day 2 will qualify to participate in the Split 3 Main
+Event.
+Notwithstanding the foregoing, a third day of Split 3 Open Qualifiers may be added at Psyonix and/or
+Tournament Administrator’s discretion, in which case the top Teams from Day 2 will advance instead to
+Day 3 to participate in a final Split 3 Open Qualifier Double Elimination Bracket. All Matches on Day 3 (if
+applicable) will be Best-of-Five. The final Teams remaining at the conclusion of Day 3 (if applicable) will
+qualify to participate in the Split 3 Main Event.
+
+Page 21
+
+2.3.5.3 Split 3 Regional 3 (All Regions)
+The top sixteen (16) Teams in RLCS points will be granted an invitation to participate in Day 1 of the Split
+3 Regional 3 (“Split 3 Regional 3”).
+In the event of a tie among Teams for invitations to participate in the Split 3 Regional 3, a tiebreaker will
+be played as set out in Section 2.3.7.
+Notwithstanding the foregoing, in the event that fewer than sixteen (16) Teams have earned RLCS points,
+Teams without RLCS points will participate in a final Split 3 Regional 3 Open Qualifier Double Elimination
+Bracket. The final Teams remaining will qualify to participate in the Split 3 Main Event.
+2.3.5.4 Split 3 Main Event
+In the Main Event stage for Split 3 (“Split 3 Main Event”), sixteen (16) Teams will compete across one
+(1) stage, and seeding for such stage of the Split 3 Main Event will be determined using the method set out
+in Section 2.3.8. It will not be possible to enter the Split 3 Main Event without advancing from the Split 3
+Regional Open Qualifiers or receiving an invitation to the Split 3 Regional 3 as set out in Sections 2.3.5.1,
+2.3.5.2, or 2.3.5.3 (as applicable).
+The Split 3 Main Event will consist of sixteen (16) Teams, with each Team competing in one Double
+Elimination Bracket. All Matches will be Best-of-Five, except for the Losers’ Quarter-Finals, Losers’ SemiFinals, Losers’ Finals, Winners’ Semi-Finals, Winners’ Finals and Grand Finals, which will be Best-ofSeven.
+2.3.5.5 Spring Major
+Split 3 will culminate with the RLCS 2022-23 Spring Major (“Spring Major”) comprised of the top sixteen
+(16) Teams in cumulative RLCS points for Split 3 from across all Regions, as follows:
+•
+•
+•
+•
+•
+•
+
+North America: Five (5) Teams
+Europe: Five (5) Teams
+Oceania: Two (2) Teams
+South America: Two (2) Teams
+APAC: One (1) Team
+MENA: One (1) Team
+
+In the Spring Major, sixteen (16) Teams will compete across one (1) stage, and seeding for each stage of
+the Spring Major will be determined using the method set out in Section 2.3.9.
+Teams will compete in one Double Elimination Bracket. All Matches for the Spring Major will be Best-ofFive, except for the Losers’ Quarter-Finals, Losers’ Semi-Finals, Losers’ Finals, Winners’ Semi-Finals,
+Winners’ Finals and Grand Finals, which will be Best-of-Seven.
+2.3.5.6 Points Structure
+Split 3
+Place
+
+Teams Total
+
+Regional Points
+Page 22
+
+Major Points
+
+1st
+
+1
+
+24
+
+48
+
+2nd
+
+1
+
+20
+
+40
+
+3rd
+
+1
+
+16
+
+32
+
+4th
+
+1
+
+13
+
+26
+
+T-5th
+
+2
+
+11
+
+22
+
+T-7th
+
+2
+
+9
+
+18
+
+T-9th
+
+4
+
+6
+
+12
+
+T-13th
+
+4
+
+4
+
+8
+
+124
+
+306
+
+Total Points
+
+2.3.6
+
+RLCS World Championship
+
+In the RLCS 2022-23 World Championship (“RLCS World Championship”), sixteen (16) Teams will
+compete across a total of two (2) stages.
+The top eight (8) Teams in cumulative RLCS Points from across all Regions will automatically qualify to
+participate in the RLCS World Championship (each, a “RLCS World Championship Advancing
+Team”) as set out in Section 2.3.6.1.
+In addition, the sixteen (16) Teams with the next-highest cumulative RLCS Point totals from across all
+Regions will compete in the RLCS 2022-23 World Championship Wildcard (“RLCS World
+Championship Wildcard”) as set out in Section 2.3.6.2 to determine the final eight (8) Teams that will
+qualify to participate in the RLCS World Championship.
+2.3.6.1 RLCS World Championship Advancing Teams
+Automatic advancement into the RLCS World Championship will be determined by the cumulative RLCS
+Points earned by a Team at the conclusion of the applicable Regional or Major.
+At the conclusion of each Major during the applicable Split, Teams will earn RLCS Points toward the eight
+(8)-slot pool of RLCS World Championship Advancing Teams (“Slots”) for their respective Region based
+on each Team’s placement relative to the other Teams within its Region. By way of example only:
+•
+•
+•
+
+If a North American Team places first (1 st ) in the Fall Major, the NA1 Slot will receive 32 RLCS
+Points.
+If a North American Team places second (2 nd) to a European Team in the Winter Major, the NA1
+Slot will receive 32 RLCS Points (for a total of 64 RLCS Points).
+If a North American Team places second (2 nd ) to another North American Team in the Spring
+Major, the NA1 Slot will receive 48 RLCS Points (for a total of 112 RLCS Points) and the NA2
+Slot will receive 40 RLCS Points.
+
+For clarity, multiple Teams can contribute RLCS Points to the same Slot across multiple Majors, so long
+as those Teams are from the same Region.
+At the conclusion of the Spring Major, (a) each Slot will be allocated to a Team from the Region associated
+Page 23
+
+with such Slot (using the above example, the top Slot would be allocated to a North American Team); and
+(b) the top eight (8) Teams in cumulative RLCS Points from the applicable Regions will fill each such Slot
+and qualify to participate in the RLCS World Championship as an RLCS World Championship Advancing
+Team.
+2.3.6.2 RLCS World Championship Wildcard
+The top sixteen (16) Teams in cumulative RLCS Points that did not qualify as an RLCS World
+Championship Advancing Team will compete in the RLCS World Championship Wildcard to determine
+the final eight (8) Teams that will qualify to participate in the RLCS World Championship. The group of
+Teams will be constituted as follows:
+•
+•
+•
+•
+•
+•
+•
+
+North America: Three (3) Teams
+Europe: Three (3) Teams
+Oceania: Two (2) Teams
+South America: Two (2) Teams
+APAC: Two (2) Teams
+MENA: Two (2) Teams
+SSA: Two (2) Teams
+
+Teams will compete in Swiss Matches against other Teams within the group. If a Team wins three (3)
+Matches during this stage, it will advance to the RLCS World Championship. If a Team loses three (3)
+Matches during this stage, it will be eliminated from the Tournament.
+2.3.6.3 RLCS World Championship
+In the RLCS World Championship, the eight (8) RLCS World Championship Advancing Teams and the
+top eight (8) Teams advancing from the RLCS World Championship Wildcard will compete as one group
+of sixteen (16) Teams across a total of two (2) stages, and seeding for each stage of the RLCS World
+Championship will be determined using the method set out in Section 2.3.9. It will not be possible to enter
+the RLCS World Championship without qualifying as an RLCS World Championship Advancing Team or
+advancing from the RLCS World Championship Wildcard as set out in Sections 2.3.6.1 or 2.3.6.2 (as
+applicable).
+The first stage of the RLCS World Championship will consist of two groups of eight (8) Teams, with each
+Team competing in one Double Elimination Bracket. All Matches for the first stage of the RLCS World
+Championship will be Best-of-Seven.
+The second stage of the RLCS World Championship will consist of an eight (8) Team Single Elimination
+Bracket. All Matches for the second stage of the RLCS World Championship will be Best-of-Seven.
+2.3.7
+
+Tiebreakers for RLCS Regional, Major, or RLCS World Championship Qualification Spots
+
+In the event of a tie for a Regional, Major, or RLCS World Championship qualification spot, one Best-ofSeven Match will be played amongst the Teams tied.
+If more than two (2) Teams are tied, a bracket will be made to accommodate the number of tied Teams,
+with Teams receiving “byes” in accordance with the seeding system set out in Sections 2.3.8 or 2.3.9 (as
+applicable) (each such bracket, a “Qualification Spot Bracket”). All Matches in a Qualification Spot
+Bracket will be Best-of-Seven.
+Page 24
+
+2.3.8 Seeding for RLCS Regional and Regional, Major, and RLCS World Championship
+Qualification Spot Brackets
+For seeding purposes in an RLCS Regional or a Regional, Major, or RLCS World Championship
+Qualification Spot Bracket, Teams will be organized by the following parameters:
+1. Cumulative RLCS Points from the three (3) most recent Tournament events, including both
+Regionals and Majors.
+2. Cumulative RLCS Points.
+3. The Team with the better placement in the most recent stage of a Tournament event, followed by
+the next most recent stage until a tie is broken. Outside of the stages within a Main Event, the Swiss
+Stage of an Open Qualifier shall also be considered for seeding purposes.
+2.3.9
+
+Seeding for RLCS Majors and RLCS World Championship
+
+For seeding purposes in an RLCS Major or the RLCS World Championship, Teams will be organized by
+the following parameters:
+1. Cumulative Major points by Slot.
+2. The Slot with the better placement in the most recent stage of a Major Event.
+Notwithstanding the foregoing, for seeding purposes in the Fall Major, Teams will be organized in the
+following order:
+1. EU1
+2. NA1
+3. NA2
+4. SAM1
+5. EU2
+6. NA3
+7. EU3
+8. NA4
+9. MENA1
+10. EU4
+11. NA5
+12. SAM2
+13. OCE1
+14. EU5
+15. OCE2
+16. APAC1
+3.
+
+Game Play Rules
+
+This Section sets forth the “Game Play Rules” governing play during the Tournament.
+3.1 Match Settings
+Page 25
+
+3.1.1 Game Settings
+●
+●
+●
+●
+●
+●
+●
+●
+
+Default Arena: DFH Stadium
+Team Size: 3v3
+Bot Difficulty: No Bots
+Mutators: None
+Match Time: 5 Minutes
+Joinable By: Name/Password
+Platform: Epic Games Store, PlayStation, Nintendo Switch, Steam, or Xbox
+Server: US-East/US-West (NA League), Europe (EU League), South America (SAM League),
+Oceania (OCE League), Middle-East (MENA League), Asia-East or Asia-SE Maritime (APAC),
+and South Africa (SSA League)
+
+3.1.2 Controllers
+All standard controllers, including mouse and keyboard, are legal. Macro functions (e.g., turbo buttons) are
+not permitted. Note that wireless controllers are not permitted at any in-person Tournament events. At any
+in-person Tournament event, all controllers are subject to approval from Psyonix and/or the Tournament
+Administrators.
+3.1.3 Arenas
+In the Open Qualifier, all Games are played on DFH Stadium. In all other stages of the Tournament, the
+map rotation will be chosen from the standard arenas, chosen by Tournament Administrators at their sole
+discretion. For broadcasted Matches, Teams may request to avoid an arena due to performance issues and
+are required to submit a detailed request to Tournament Administrators no less than 24 -hours prior to the
+Match start time. The Tournament Administrators reserve the right to reject for any reason, in their sole
+discretion, any request made by Teams to avoid an arena.
+3.2 Match Procedures
+3.2.1
+
+Hosting and Team Colors
+
+Tournament Administrators will specify which Team is blue and which Team is orange. In the Open
+Qualifier, Teams will be instructed how to host the Match. In all other stages of the Tournament, a
+Tournament Administrator will host the Match.
+3.2.2
+
+Re-Hosts
+
+Between Games in a Match, Teams may request that the Match be re-hosted on the same server region due
+to connection issues. During a Main Event, before either (a) a goal has been scored or (b) fifteen (15)
+seconds have elapsed (whichever is sooner), Teams may mutually agree to cancel the current Game of the
+Match and re-host the Match with approval from Tournament Administrators. Tournament Administrators
+reserve the right to suspend and invalidate the current Game of the Match for a re -host at any time.
+3.2.3
+
+Servers
+
+Page 26
+
+3.2.3.1 Open Qualifiers
+•
+•
+•
+•
+•
+•
+•
+
+“US-East” will be the default server for North American Open Qualifier Matches unless both
+Teams agree to play on “US-West.”
+“Europe” servers will always be used for European Open Qualifier Matches.
+“South America” servers will always be used for South American Open Qualifier Matches.
+“Oceania” servers will always be used for Oceanic Open Qualifier Matches.
+“Middle-East” servers will always be used MENA Open Qualifier Matches.
+“Asia-East” and “Asia-SE Maritime” servers will always be used for APAC Open Qualifier
+Matches.
+“South Africa” servers will always be used for SSA Open Qualifier Matches.
+
+3.2.3.2 Main Events
+•
+•
+•
+•
+
+“RLCS USE-OHIO” will be the default server for North American Main Event Matches unless
+both Teams agree to play on another North American RLCS Server Region.
+“RLCS EU-PARIS” will be the default server for European Main Event Matches unless both teams
+agree to play on another European RLCS Server Region.
+“RLCS SAM-SaoPaulo” will be the default server for South American Main Event Matches unless
+both Teams agree to play on another South American server.
+“RLCS OCE-Sydney” will be the default server for Oceanic Main Event Matches unless both
+Teams agree to play on another Oceania server.
+
+MENA, APAC, and SSA Main Event Matches will use the default server as determined by Psyonix and/or
+Tournament Administrators at their discretion.
+3.2.4
+
+Game Start
+
+In Open Qualifiers Matches, Players may not join their designated side until three Players from each Team
+have joined the Game. In Main Event Matches, Players may not join their designated side until instructed
+by a Tournament Administrator.
+3.2.5
+
+Substitutions
+
+A “Substitution” is defined as changing the Player line-up after a Match has started.
+3.2.5.1 Open Qualifiers
+Substitutions are not allowed during a Match in the Open Qualifiers except in the event of a disconnect.
+Teams may start a Match with any combination of three (3) Players from their registered Roster (as defined
+below).
+3.2.5.2 Main Events
+Substitutions may only occur in between Games in a Match or before a Match, and Teams are limited to
+one Substitution per Match. Teams must inform Tournament Administrators of any change in lineup
+between Matches.
+3.2.6
+
+Reporting Scores
+Page 27
+
+During the Open Qualifier stage, after a Match is completed, the winning Team must submit the Match
+result to Tournament Administrators in a designated chatroom. The losing Team must also confirm the
+Match result. Taking a screenshot of the results screen or saving the replay file of the Match is required in
+case of disputed results. If a Team disputes a Match claiming a win and submits proof of its claim, the other
+Team must submit proof of its claim to avoid an automatic forfeit of the Match. Any Teams or Players
+found to have submitted false or doctored results will be subject to disciplinary action as further described
+in Section 8.2.
+3.2.7
+
+Observers
+
+For all Regionals, including Open Qualifiers, Main Events, and Majors, in-game observers are not allowed
+except for Tournament Administrators and their designees. Teams that are found to have shared lobby
+details for the purposes of allowing an unauthorized observer into the Match will be subject to disciplinary
+action as further described in Section 8.2.
+Upon written request and approval by Psyonix (email is sufficient), a Player or Team shall be permitted to
+stream live coverage of his/her/its Gameplay in the Open Qualifiers and/or Day 1 of the applicable Main
+Event through an online streaming platform (e.g., Twitch, YouTube, etc.).
+3.2.8
+
+Technical Issues
+
+Due to the nature and scale of online competition, except as otherwise determined by Tournament
+Administrators in their sole discretion, Matches will not be restarted or made null due to bugs, intentional
+disconnections, server crashes, or unintentional disconnections. Except as otherwise determined by
+Tournament Administrators in their sole discretion, any technical issues or bug encounters must be played
+through. If a Team calls for a rematch due to a technical issue or bug encounter, such Team they must save
+the replay and submit it to the Tournament Administrators for review. During a broadcasted Match,
+Tournament Administrators may halt Gameplay to review and subsequently restart the Game if deemed
+necessary by Tournament Administrators in their sole discretion.
+In addition, Players acknowledge and agree that in participating in a Rocket League competitive event the
+individual Player solely determines which platform to use (i.e., PC or console (as applicable)) and
+understands that he/she may face Players competing on a different platform. Additionally, Players
+acknowledge that the different platforms may offer features, such as controllers, Player interface, and/or
+ability to individualize certain game settings/sensitivities, etc., which may arguably provide a competitive
+advantage to one platform over another. Players acknowledge their sole competitive platform choice and
+agree and waive any responsibility or liability of Psyonix relating to such Player’s involvement in a
+multiplatform competition, including any alleged competitive advantage of any other platform .
+3.3
+
+Team Rosters
+
+3.3.1 Team Captains
+Each Team must declare one member of their Roster to be the “Team Captain” who represents the Team
+for all official decisions and serves as the main point of contact for the Team; provided, that a Team may
+designate its Manager or Coach (as applicable) as the main point of contact for the Team.
+3.3.2 Rosters
+Teams may only use Players who are on their Roster for a Match. Upon registering for the Tournament,
+Page 28
+
+Rosters must have at least three (3) Players, but no more than four (4) (i.e., three starting Players and one
+reserve Player who may be used as an alternate). Rosters may also include a Manager and/or a Coach who
+do not play in Tournament Matches. An individual may not simultaneously be part of more than one Roster
+at a time, including Coaches and Managers.
+3.3.3 Roster Submission
+Starting Rosters for each Tournament day must be submitted to Tournament Administrators at least 24
+hours prior to the start of Gameplay for such day.
+3.3.4 Roster Change Period/Roster Lock Deadline
+Except as otherwise expressly set forth in these Rules, Team Rosters may only change during the Transfer
+Windows (as defined below). All Rosters will be deemed locked at the close of the Tournament registration
+process set out in Section 6.1.3 (the “Registration Process”) at the time and date to be specified on the
+Registration Website (such dates and times collectively, the “Roster Lock Deadline”).
+If a Team has a Manager or Coach they would like added to its Roster, the Team must notify Tournament
+Administrators prior to the applicable Roster Lock Deadline. If a Team has circumstances that prevent it
+from making a Substitution within the deadlines set forth in Section 3.2.5 and are in need of a time
+extension, such Team must notify a Tournament Administrator by the applicable Roster Lock Deadline.
+Otherwise, no Substitution will be allowed for such Team after the Roster Lock Deadline.
+3.3.5 Roster Changes/Transfers
+As used herein, “Roster Change” means the addition of a new Player to an existing Roster. Note that a
+Player departing a Roster will not be considered a Roster Change, provided the Team maintains a minimum
+of three (3) Players.
+Teams will be allowed to make Roster additions during two designated “Transfer Windows” during the
+season.
+Transfer Window 1: December 13, 2022 at 12:00 AM PT – January 8, 2023 at 11:59 PM PT
+Transfer Window 2: April 11, 2023 at 12:00 AM PT – April 24, 2023 at 11:59 PM PT
+During each Transfer Window, Teams may only make one addition to their Roster (not including Manager
+and Coach), provided that the maximum number of Players allowed on a Team is four (4). Teams are
+allowed to make one addition to their Roster per Transfer Window (for a total of two (2) additions for the
+entire RLCS Season). If it is determined by Psyonix and/or a Tournament Administrator that a Team has
+made more than one addition in a single Transfer Window, such Team shall forfeit all of its accumulated
+RLCS Points and shall become an inactive Team.
+Notwithstanding the foregoing, Teams may also make one “Exempt” addition to their Rosters (each, an
+“Exempt Addition”) during the entire RLCS Season. Exempt Additions must be made in one of the two
+(2) Transfer Windows and must be added in the “Substitute” position. In addition, Exempt Additions must
+meet the following eligibility criteria:
+•
+
+The Exempt Addition must have been eligible to compete for the entirety of the Split immediately
+Page 29
+
+•
+
+preceding the Transfer Window during which the Exempt Addition is being made.
+The Exempt Addition cannot have earned any RLCS Points during such Split.
+
+In order to make an Exempt Addition, Teams must submit their request via email at the applicable email
+address listed below (depending on their Region) before the close of the applicable Transfer Window.
+•
+•
+•
+•
+•
+•
+•
+
+North America: RLCSNA@eslgaming.com
+Europe: RLCSEU@eslgaming.com
+South America: RLCSSAM@eslgaming.com
+Oceania: RLCSOCE@eslgaming.com
+MENA: RLCSMENA@eslgaming.com
+APAC: RLCSAPAC@eslgaming.com
+SSA: RLCSSSA@eslgaming.com
+
+3.3.6 Player or Team Names
+Players or Teams may not change their User Names, in-game names, or Team Names without approval
+from Tournament Administrators. All such names must comply with these Rules (including, without
+limitation, Section 5) and Tournament Administrators may request that they be changed at any time. A
+Roster shall not contain duplicates of the same name, names that consist only of symbols, or names that are
+difficult to distinguish from one another.
+3.3.7 Roster Continuity
+A “Roster” is the three (3) or four (4) Players (as applicable) who are registered under a Team. If a Team
+has three (3) Players, all three (3) Players will be considered “Starters”. If a Team has four (4) Players, three
+(3) Players will be considered “Starters,” and one (1) Player will be considered “Exempt” or a “Substitute”
+(as applicable).
+3.4
+
+Match Obligations
+
+3.4.1 Punctuality
+All Teams must have three (3) Players physically present or in the online Match lobby by the designated
+Match start time. Teams that do not have three (3) Players ready to play after five (5) minutes of the Match
+start time will be subject to disciplinary actions as further described in Section 8.2. During Main Event
+matches, the Team Captain must be responsive in the designated chat room at least ten (10) minutes prior
+to the designated Match start time. Match start times may be adjusted by Psyonix and/or Tournament
+Administrators, in their sole discretion, depending on any Tournament accelerations or delays.
+3.4.2 Forfeits
+Teams may not voluntarily forfeit a Match without prior authorization from Tournament Administrators.
+Notwithstanding the foregoing, even with such authorization, such Teams will be subject to disciplinary
+actions as further described in Section 8.2.
+3.4.3 Communications
+Teams will communicate with their Coaches, opponents, and Tournament Administrators (as applicable)
+Page 30
+
+in a designated chatroom during all online stages of the Tournament. For live events, once a Match has
+officially begun, communication with anyone not designated as playing within the current Match
+(including, without limitation, Coaches) is strictly prohibited and may result in immediate disqualification
+of the Player(s) or Team. Psyonix and/or Tournament Administrators will notify Players of the designated
+chatroom prior to the start of each stage of the Tournament.
+3.5
+
+Match Disruptions
+
+3.5.1 Disconnects
+3.5.1.1 Open Qualifier
+If a disconnect occurs in the Open Qualifier, the shorthanded Team must continue to play out the single
+Game within the Match series. The disconnected Player may rejoin during the Game that the disconnect
+occurred in or in between Games of a Match series but may not join in the middle of subsequent Games in
+the series. After a disconnect, if the Player cannot rejoin during the same Game, the Player will have five
+minutes to rejoin before the next Game of the Match series begins. If the disconnected Player is unable to
+join the Game prior to the next Game in the series, the Player’s Team may substitute another Player from
+their Roster (subject to the Substitution rules set forth in Section 3.2.5) if this is the first disconnect for the
+Team during the series.
+3.5.1.2 All Other Stages
+If a disconnect occurs during any stage of the Tournament, except for the Open Qualifier, the shorthanded
+Team must immediately notify the Tournament Administrators in the designated chatroom. The
+Tournament Administrators may pause the Game once the disconnect notification has been received, at
+their sole discretion. For spectated / broadcasted Matches, if Tournament Administrators identify that a
+Player has disconnected without being notified, they may pause a Match to allow the Player to reconnect.
+Once the Game has been paused, the disconnected Player will have eight minutes to rejoin before the Game
+resumes. In the event of multiple pauses for disconnections, the total time will be counted towards the eight
+minutes of reconnection time. If the Player cannot rejoin within that time, the shorthanded Team will forfeit
+the single Game within the Match series.
+If the Player does not rejoin during the same Game in which they disconnected, the Player will have three
+additional minutes following the Game to rejoin before the next Game of the Match series begins. The
+disconnected Player may only rejoin during the Game in which the disconnect occurred in or in between
+Games of a Match series but may not join in the middle of subsequent Games in the series. If the
+disconnected Player is unable to join the Game prior to the next Game in the series, the Player’s Team must
+substitute another Player from their roster (subject to the Substitution rules set forth in Section 3.2.5) or
+forfeit the Match.
+Once the disconnected Player rejoins the Game or the allotted rejoin time has expired, the Teams have 30
+seconds to confirm with Tournament Administrators that each Team is ready to unpause. Once each Team
+has confirmed its readiness, the Game will resume from a neutral kickoff or from continuation of play as
+determined by the Tournament Administrators.
+If a Team cannot field a full team of three (3) Players to continue play, it will forfeit the Game. If a Team
+cannot field a full team of three (3) Players in the subsequent eight minutes of Game forfeiture, they will
+forfeit the Match.
+
+Page 31
+
+3.5.2 Stoppage of Play
+Tournament Administrators may pause a Game or Match at any time and for any reason. In the event of a
+stoppage of play, Players must remain at their devices and may not communicate with other Players until
+the Game or Match is resumed. Each Team is allowed a maximum of one pause request per Match.
+3.5.3 Timeouts
+For any Best-of-Seven series, Teams may request one (1) timeout (each, a “Timeout”) between Games
+during such series.
+For any Best-of-Five set or Best-of-Seven set, Teams may request one (1) Timeout between Games during
+such set (as applicable).
+Each Timeout will last for two (2) minutes. A Team must notify a Tournament Administrator immediately
+after the conclusion of a Game if it elects to use a Timeout. Tournament Administrators reserve the right to
+deny a Team a Timeout if such Team fails to make its election in accordance with the deadlines set forth in
+this Section 3.5.3. At the conclusion of the Timeout, Tournament Administrators will confirm that each
+Team is ready to continue the series before Gameplay can resume.
+For clarity, Timeouts cannot be used in Open Qualifiers or during Gameplay. In addition, Timeouts cannot
+be used to extend or circumvent disqualification timers as set forth in Section 3.5.1.2.
+3.5.4 Restarts
+Tournament Administrators may order a Game or Match restart due to exceptional circumstances, such as
+if a bug significantly affects a Player’s ability to play or the Game or Match is disrupted by a Force Majeure
+or other event.
+3.5.5 Log Submission
+If a Player or Team makes a complaint that results in a Game or Match restart, they shall provide
+Tournament Administrators with log files from the Game or Match. These log files will be subject to
+investigation, and if Tournament Administrators determine that the restart was falsely requested, such
+Player or Team will be subject to disciplinary actions as further described in Section 8.2 .
+4.
+
+Prizes
+
+4.1
+
+Regional Prizes
+
+The following prizes will be awarded to each Team based on its placement at the conclusion of each
+Regional in Split 1:
+North America and Europe:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+1
+1st
+
+$30,000
+
+Page 32
+
+1
+2nd
+
+$20,000
+2
+
+T-3rd
+
+$8,500
+4
+
+T-5th
+
+$4,000
+3
+
+T-9th
+
+$3,000
+3
+
+T-12th
+
+$2,000
+2
+
+T-15th
+
+$1,000
+
+Total:
+
+$100,000
+
+South America, Oceania, and MENA:
+
+Placement
+1st
+2nd
+T-3rd
+T-5th
+
+Teams Total
+1
+1
+2
+4
+
+Total:
+
+Prize (USD)
+$9,000
+$6,000
+$3,900
+$1,800
+$30,000
+
+APAC and SSA:
+Placement
+1st
+2nd
+T-3rd
+T-5th
+Total:
+
+Teams Total
+1
+1
+2
+4
+
+Prize (USD)
+$6,000
+$4,000
+$2,600
+$1,200
+$20,000
+
+The following prizes will be awarded to each Team based on its placement at the conclusion of each
+Regional in Split 2.
+North America and Europe: North America and Europe:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+Page 33
+
+1
+1st
+
+$30,000
+1
+
+2nd
+
+$20,000
+2
+
+T-3rd
+
+$9,000
+4
+
+T-5th
+
+$4,000
+4
+
+T-9th
+
+$3,000
+4
+
+T-13th
+
+$1,000
+
+Total:
+
+$100,000
+
+South America, Oceania, and MENA:
+
+Placement
+1st
+2nd
+T-3rd
+T-5th
+
+Teams Total
+1
+1
+2
+4
+
+Total:
+
+Prize (USD)
+$9,000
+$6,000
+$3,900
+$1,800
+$30,000
+
+APAC and SSA:
+Placement
+1st
+2nd
+T-3rd
+T-5th
+Total:
+
+Teams Total
+1
+1
+2
+4
+
+Prize (USD)
+$6,000
+$4,000
+$2,600
+$1,200
+$20,000
+
+Subject to Section 4.4, the following prizes will be awarded to each Team based on its placement at the
+conclusion of each Regional in Split 3.
+North America and Europe:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+Page 34
+
+1
+1st
+
+$30,000
+1
+
+2nd
+
+$20,000
+1
+
+3rd
+
+$10,000
+1
+
+4th
+
+$8,000
+2
+
+T-5th
+
+$6,000
+2
+
+T-7th
+
+$4,000
+4
+
+T-9th
+
+$2,000
+4
+
+T-13th
+
+$1,000
+
+Total:
+
+$100,000
+
+South America, Oceania, and MENA:
+
+Placement
+1st
+2nd
+3rd
+4th
+T-5th
+T-7th
+
+Teams Total
+1
+1
+1
+1
+2
+2
+
+Total:
+
+Prize (USD)
+$9,000
+$6,000
+$3,600
+$3,000
+$2,400
+$1,800
+$30,000
+
+APAC and SSA:
+Placement
+1st
+2nd
+3rd
+4th
+T-5th
+T-7th
+
+Teams Total
+1
+1
+1
+1
+2
+2
+
+Prize (USD)
+$6,000
+$4,000
+$2,400
+$2,000
+$1,600
+$1,200
+Page 35
+
+Total:
+
+4.2
+
+$20,000
+
+RLCS Major Prizes
+
+The following prizes will be awarded to each Team based on its placement at the conclusion of the Fall
+Major:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+1
+1st
+
+$100,000
+1
+
+2nd
+
+$60,000
+2
+
+T-3rd
+
+$25,500
+4
+
+T-5th
+
+$12,000
+3
+
+T-9th
+
+$9,000
+3
+
+T-12th
+
+$6,000
+2
+
+T-15th
+
+$3,000
+
+Total:
+
+$310,000
+
+The following prizes will be awarded to each Team based on its placement at the conclusion of the Winter
+Major:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+1
+1st
+
+$100,000
+1
+
+2nd
+
+$60,000
+2
+
+T-3rd
+
+$27,000
+4
+
+T-5th
+
+$12,000
+4
+
+T-9th
+
+$9,000
+4
+
+T-13th
+
+$3,000
+
+Total:
+
+$310,000
+
+Subject to Section 4.4, the following prizes will be awarded to each Team based on its placement at the
+Page 36
+
+conclusion of the Spring Major:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+1
+1st
+
+$100,000
+1
+
+2nd
+
+$60,000
+1
+
+3rd
+
+$30,000
+1
+
+4th
+
+$24,000
+2
+
+T-5th
+
+$18,000
+2
+
+T-7th
+
+$12,000
+4
+
+T-9th
+
+$6,000
+4
+
+4.3
+
+T-13th
+
+$3,000
+
+Total:
+
+$310,000
+
+RLCS 2022-23 World Championship Prizes
+
+Subject to Section 4.4, the following prizes will be awarded to each Team based on its placement at the
+conclusion of the RLCS World Championship Wildcard:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+3
+T-9th
+
+$16,000
+3
+
+T-12th
+
+$12,000
+2
+
+T-15th
+
+$8,000
+
+Total:
+
+$100,000
+
+Subject to Section 4.4, the following prizes will be awarded to each Team based on its placement at the
+conclusion of the RLCS World Championship:
+
+Placement
+
+Teams Total
+
+Prize (USD)
+
+1
+1st
+
+$600,000
+1
+
+2nd
+
+$400,000
+Page 37
+
+2
+T-3rd
+
+$200,000
+4
+
+T-5th
+
+$100,000
+4
+
+T-9th
+
+$30,000
+4
+
+T-13th
+
+$20,000
+
+Total:
+
+$2,000,000
+
+4.4
+
+Prize Restricted Regions
+
+NOTWITHSTANDING THE FOREGOING OR ANY OTHER PROVISION OF THESE RULES
+TO THE CONTRARY, IF YOU ARE AN INDIVIDUAL IN A PRIZE RESTRICTED REGION,
+YOU ACKNOWLEDGE AND AGREE (AND IF A MINOR, YOUR PARENT OR LEGAL
+GUARDIAN ACKNOWLEDGES AND AGREES) THAT YOU ARE NOT ELIGIBLE FOR NOR
+ENTITLED TO WIN ANY PRIZES IN CONNECTION WITH THE TOURNAMENT.
+4.5
+
+Prizing Information
+
+Only Winning Players (as determined by Psyonix pursuant to this Section 4.5) will be eligible to receive
+the applicable prize set forth in Sections 4.1, 4.2, and 4.3 (as applicable). No other Player from a Team with
+a score/performance lower than the Winning Players or residing in a Prize Restricted Region shall be, at
+any time or under any circumstances, entitled to receive any prizes in connection with the Tournament.
+For clarity, prizes are awarded “as is” with no warranty or guarantee, either express or implied. Prizes are
+not transferable or assignable and cannot be transferred by Winning Players. Non-cash prizes (if any) cannot
+be redeemed for cash. All prize details are at the sole discretion of Psyonix. Winning Players are not entitled
+to any surplus between actual retail value of prize and approximate retail value and any difference between
+approximate and actual value of the prize will not be awarded. Winning Players are responsible for any
+costs and expenses associated with prize acceptance and use not specified herein as being provided.
+Winning Players may not substitute a prize, but Psyonix reserves the right, at its sole discretion, in case of
+justified reasons, to substitute a prize (or portion thereof) with one of comparable or greater value.
+Additional terms and conditions may apply to acceptance and use of a prize.
+Upon formal notification from Psyonix, a potential Winning Player shall have 45 days from the date such
+notice was emailed to respond and provide any information or materials requested by Psyonix, including
+the Release (as defined below) for purposes of verification of eligibility pursuant to Section 5. Such
+response from a potential Winning Player must be delivered to the email address from which Psyonix’s
+notification was sent or, at Psyonix’s sole option, another email address specified in the notification. In
+addition, a potential Winning Player must keep the Epic Account (as defined below) that he or she provided
+to Psyonix pursuant to Section 5.3 active throughout the verification of eligibility process.
+The date of receipt by Psyonix shall be decisive for a potential Winning Player’s compliance with the
+deadlines set forth in this Section 4.5. In the event of (a) the failure by any such Player to (i) keep the Epic
+Account that he or she provided to Psyonix pursuant to Section 5.3 active throughout the verification of
+eligibility process or (ii) timely respond to any notification or request for materials or information; or (b)
+any such Player being unable to accept or receive the prize for any reason (including, without limitation,
+for (i) providing an Epic Games Cabined Account (“Cabined Account”) as part of the Registration Process,
+Page 38
+
+(ii) attempting to complete the verification of eligibility process with a Cabined Account, or (iii) failure to
+provide the necessary tax and payment information through Psyonix’s approved tax and payment
+processing vendors), then in either case (items (a) or (b)), such Player shall be disqualified, and such Player
+shall not be entitled to win any prizes in connection with the Tournament. In such cases, no alternate
+Winning Player will be named, and Psyonix shall have the right, in its sole and absolute discretion, to (y)
+award any prize amounts that would have otherwise been awarded to such disqualified Player as part of a
+future Rocket League tournament or (z) award any such prize amounts to non-profit causes and efforts. A
+Winning Player will only be announced once the verification of eligibility process has been completed by
+Psyonix pursuant to these Rules.
+Winning Players will also be required to provide certain payment information to Psyonix, including any
+required tax information forms, in order to receive the prizes. Psyonix may withhold payment of the prizes
+if the Winning Player fails to provide the applicable payment forms to Psyonix in a timely manner.
+PRIZES ARE SUBJECT TO APPLICABLE INTERNATIONAL, FEDERAL, STATE, AND LOCAL
+TAXES (INCLUDING, BUT NOT LIMITED TO, INCOME AND WITHHOLDING TAXES) AND IT IS
+THE RESPONSIBILITY OF EACH WINNING PLAYER TO (I) CHECK WITH HIS OR HER LOCAL
+TAX ADVISOR TO DETERMINE WHICH TAXES APPLY TO HIM OR HER AND (II) PAY SUCH
+TAXES TO THE APPROPRIATE TAX AUTHORITY. It is Psyonix's policy to withhold tax at the backup
+withholding rates in effect for US and non-US residents. Prize income and tax withholding will be reported
+on forms (y) 1099-MISC for US residents and 1042-S for non-US residents, and (z) any other relevant tax
+forms as may be required by applicable law.
+Psyonix will determine the payment method for the prizes in its sole discretion and, except as otherwise
+required by applicable law, all payments will be made directly to the Winning Player in his or her capacity
+as an individual (or, if a Minor, to the Winning Player’s parent or legal guardian). Each Winning Player
+will be provided a Prize Acceptance and Release Form (“Release”). Unless restricted by applicable law,
+each Winning Player (or, if a Minor, such Winning Player’s parent or legal guardian) will be required to
+complete and submit the Release in accordance with the deadlines set forth in this Section 4. 5.
+5.
+
+Player Eligibility
+
+5.1
+
+Player Age
+
+5.1.1
+
+To be eligible to participate in the Tournament, a Player must be at least 15 years old (or such other
+age, if greater, as may be required in such Player’s country of residence). If a Player is under 18
+years of age or the age of majority as defined in such Player’s country of residence (a “ Minor”),
+such Player must have permission from a parent or legal guardian in order to participate in the
+Tournament.
+
+5.1.2
+
+Ineligible Players who mislead or attempt to mislead Tournament Administrators by providing false
+eligibility information or, if a Minor, a forged parental consent will be subject to disciplinary
+actions as further described in Section 8.2.
+
+5.2
+
+Rocket League EULA
+
+Each Player must follow the Rocket League End User License Agreement (“ Rocket League EULA”)
+(https://www.psyonix.com/eula/). These Rules add to, and do not replace, the Rocket League EULA.
+
+Page 39
+
+5.3
+
+Epic Account
+
+In order to facilitate the prize payment process set forth in Section 4.5, each Player must (a) have an active,
+valid Epic Games Account registered to such Player (“Epic Account”) and (b) provide such Epic Account
+to Psyonix as part of the Registration Process. To open an Epic Account, Players can visit
+https://www.epicgames.com/id/register/date-of-birth and follow the onscreen instructions.
+For clarity, providing an Epic Account as part of the Registration Process does not guarantee that a Player
+will receive a prize in connection with the Tournament. Only Winning Players will be eligible to receive
+prizes in connection with the Tournament. Players with Cabined Accounts are ineligible to participate in,
+or receive any prizes in connection with, the Tournament.
+5.4
+
+Psyonix Affiliation
+
+Employees, officers, directors, agents, and representatives of Psyonix (including the legal, promotion, and
+advertising agencies of Psyonix) and their immediate family members (defined as spouse, mother, father,
+sisters, brothers, sons, daughters, uncles, aunts, nephews, nieces, grandparents and in-laws, regardless of
+where they live) and those living in their household (whether or not related), and each person or entity
+connected with the production or administration of the Tournament, and each parent company, affiliate,
+subsidiary, agent and representative of Psyonix are not eligible to participate or win.
+5.5
+
+Team and Player Names, Logos, Avatars, and Branding Restrictions
+
+5.5.1
+
+All Team and individual Player names must follow the Code of Conduct in Section 7. Psyonix and
+the Tournament Administrators each may restrict or change Team and individual Player tags or
+screen names for any reason.
+
+5.5.2
+
+The name used by a Team or Player may not include or make use of the terms Rocket League®,
+Psyonix, or any other trademark, trade name, or logo owned by or licensed to Psyonix.
+
+5.5.3
+
+The name used by a Team or Player cannot be an impersonation of another Team, Player, streamer,
+celebrity, government official, Psyonix employee, or any other person or entity.
+
+5.5.4
+
+Prior to the start of the Tournament, Psyonix and/or Tournament Administrators will work directly
+with all invited Teams and Players to determine a suitable display name for use in connection with
+the Tournament. Teams and Players must use this agreed upon identifier for the duratio n of the
+Tournament.
+
+5.5.5
+
+Psyonix and/or Tournament Administrators each reserves the right to prohibit or restrict the use of
+any in-game item during Tournament Gameplay (including, without limitation, prohibiting the use
+of any third party copyrighted materials in a manner that indicates, suggests, or could be interpreted
+as representing association or affiliation with such third party).
+
+5.5.6
+
+Teams that qualify for the Main Event, the Majors, and/or the RLCS World Championship are
+required to provide Tournament Administrators a logo in .png, .psd, or .ai format (with the latter
+highly preferred). If a logo is not provided, or is rejected, Tournament Administrators will replace
+the logo with a standard Tournament logo. Tournament Administrators reserve the right to re ject
+
+Page 40
+
+logos submitted after the Tournament begins.
+5.6
+
+Good Standing
+
+Players must be in good standing with respect to the Epic Account, Steam, Microsoft Account, Nintendo
+Account, or PlayStation Network ID (each, a “Tournament Account”) used by such Players in connection
+with the Tournament, with no undisclosed violations. This means that, without limitation, a Player’s
+Tournament Account (a) must be registered in such Player’s name, and cannot have been previously
+purchased, gifted, or otherwise transferred f rom another Player; and (b) must have the requisite access
+levels to the Epic Games Store, Steam, Xbox Live, Nintendo Network, or the PlayStation Network, as
+applicable. Players / Teams must also be free of or served fully any suspensions or other sanction s imposed
+in connection with a previous violation of any official Psyonix rules.
+5.7
+
+Additional Restrictions
+
+The Tournament in all parts is open to eligible Players who reside in the Eligibility Area but is void
+wherever restricted or prohibited by applicable law or in any country where participation is prohibited by
+U.S. law.
+6.
+
+Team Formation, Operations and Conduct
+
+6.1
+The Tournament is comprised entirely of Teams. Players must combine to form a Team consisting
+of at least three (3), but no more than four (4), individual Players.
+6.1.1 If multiple countries or geographic regions are included in the Eligibility Area, each Team must be
+comprised of Players from the same region within the Eligibility Area.
+6.1.2
+
+Players may participate on only one Team at a time throughout the Tournament.
+
+6.1.3 Each Player on a Team must satisfy all eligibility requirements set forth herein for Players, and
+each such Team Player must register on the Registration Website before the close of the Registration
+Process in order to be considered a member of the applicable Team. During the Registration Process, one
+Team member will create/register the Team Name and Players will be able to join the Team by searching
+the Team Name or by invite. In the event a Team progresses to further rounds of the Tournament, the
+Tournament Administrators will attempt to notify the Team through its Team Captain.
+6.1.4 Subject to Section 4.4, all members of a Team that fall within the prizing thresholds set forth in
+Section 4 must successfully pass the verification of eligibility process described in Section 4.5 in order to
+be eligible to receive such prizes. If one member of a Team fails the verification of eligibility process, all
+members of that Team will be disqualified as potential Winning Players, and that Team shall not be entitled
+to win any prizes in connection with the Tournament.
+6.1.5 Each member of the Team, including the Team Captain, shall be deemed to have jointly and
+severally made and entered into all of the representations, warranties, and agreements contained herein and
+shall be jointly and severally obligated and bound thereby. Except as otherwise expressly set forth herein,
+all of the Tournament Administrators’ rights pursuant to these Rules relate to and are exercisable against
+the Team as a whole and each individual member of the Team. If any right of disqualification arises as to
+any individual member of the Team, then the right of disqualification may be exercised either as to such
+individual member of the Team, or to the Team as a whole, as the Tournament Administrators may elect in
+their sole discretion. If the Tournament Administrators elect to disqualify fewer than all members of a
+Team, then the remaining Players shall continue to be bound by these Rules, and if pe rmitted in the sole
+Page 41
+
+discretion of the Tournament Administrators, the Team may replace the disqualified Player(s) (even if the
+disqualified Player was the Team Captain) with a new eligible Player and continue to compete under the
+same Team Name if each disqualified Player promptly signs any writing deemed necessary by Tournament
+Administrators to permit his/her former Team member(s) to continue to participate in the Tournament using
+the Team’s name, or under a new name if permitted in the sole discretion of the Tournament Administrators.
+Any Team member who elects to end his/her participation in the Tournament, and/or is disqualified from
+the Tournament, will not be permitted to participate in the Tournament in any capacity at the sole discretion
+of the Tournament Administrator.
+6.2
+
+Team Relationships
+
+The Rules do not govern relationships between or among Players on a Team. The terms of the relationship
+between Players and their respective Teams are left to each of the Teams and their Players. However,
+disputes between Team members may be grounds for disqualifying the applicable Team or any of its Team
+members, as determined by the Tournament Administrators in their sole discretion.
+6.3
+
+Responsibilities of Team Owners, Managers and Coaches
+
+6.3.1 No Team (including its agents, officers, employees and subcontractors), Owner, Manager, or Coach
+may engage in collusion, Match fixing, the bribery of a referee or Match official, or any other unfair or
+illegal action or agreement to intentionally influence (or attempt to influence) the outcome of any Game,
+Match, or Tournament.
+6.3.2 No Owner of a Team in the RLCS shall serve as the Coach or Manager of another RLCS Team or
+otherwise be involved in or have any power to determine or influence the management or administration of
+another Team in the RLCS.
+6.3.3 No Managers, Coaches, or other persons having supervisory or managerial responsibility for a
+Team in the RLCS (collectively, “Control Persons”) shall: (a) be a Control Person of another Team in the
+RLCS; or (b) either directly or indirectly be involved in or have any power to determine the management
+or administration of another RLCS Team or influence the performance of another RLCS Team in any Game,
+Match, or Tournament.
+6.3.4 A Team shall not appoint as a Control Person any individual who: (a) is a Control Person of any
+other RLCS Team; or (b) either directly or indirectly is involved in or has any power to determine the
+management or administration of another RLCS Team or influence the performance of another RLCS Team
+in any Game, Match, or Tournament.
+6.3.5 Teams that Psyonix, in its sole discretion, determines are directly or indirectly owned or controlled
+by a person or entity that operates sports (including esports) gambling, wagering, bookmaking, or betting
+sites or platforms are not eligible to participate in the Tournament.
+7.
+7.1
+
+Code of Conduct
+Personal Conduct; No Toxic Behavior
+
+7.1.1 All Players and Control Persons must conduct themselves in a way that is at all times consistent
+with (a) the Code of Conduct in this Section 7 (“Code of Conduct”) and (b) the general principles of
+personal integrity, honesty, good sportsmanship, and sound health and safety.
+Page 42
+
+7.1.2 Players and Control Persons must be respectful of other Players, Tournament Adm inistrators,
+spectators, and sponsors (as applicable).
+7.1.3 Players and Control Persons shall not behave in a manner (a) which violates these Rules, (b) which
+is disruptive, unsafe or destructive, or (c) which is otherwise harmful to the enjoyment of Roc ket League
+by other users as intended by Psyonix (as decided by Psyonix). In particular, Players and Control Persons
+shall not engage in harassing or disrespectful conduct, use of abusive or offensive language, Game sabotage,
+spamming, social engineering, scamming, or any unlawful activity (“Toxic Behavior”).
+7.1.4 Any violation of these Rules may expose a Player, a Control Person, or an entire Team to
+disciplinary action as further described in Section 8.2, whether or not that violation was committed
+intentionally.
+7.2
+
+Competitive Integrity
+
+7.2.1 Each Player is expected to play within the spirit of Rocket League and these Rules at all times
+during any Game or Match. Any form of unfair play is prohibited by these Rules, and may result in
+disciplinary action. Examples of unfair play include the following:
+● Collusion (e.g., any agreement between two or more Teams or Players on different Teams to predetermine the outcome of a Game or Match), Match fixing, bribing a referee or Match official, or
+any other unfair or illegal action or agreement to intentionally influence (or attempt to influence)
+the outcome of any Game, Match, or Tournament.
+● Hacking or otherwise modifying the intended behavior of the Rocket League game client.
+● Playing or allowing another Player to play on a Tournament Account registered in another person’s
+name (or soliciting, encouraging, or directing someone else to do so).
+● Using any kind of cheating device, program, or similar cheating method to gain a competitive
+advantage.
+● Intentionally exploiting any game function (e.g., an in-game bug or glitch) in a manner not intended
+by Psyonix in order to gain a competitive advantage.
+● Using distributed denial of service attacks, swatting, or similar methods to interfere with another
+Player’s connection to the Rocket League game client.
+● Using macro keys or similar methods to automate in-game actions.
+● Intentionally disconnecting from a Match without a legitimate reason for doing so.
+● Accepting any gift, reward, bribe, or compensation f or services promised, rendered, or to be
+rendered in connection with unfair play of Rocket League (e.g., services designed to throw or fix a
+Match or Game).
+
+Page 43
+
+● Interfering with the operation of the Tournament, the Rules Website, or any website owned or
+operated by Psyonix or the Tournament Administrators.
+● Engaging in any activity that is illegal in the jurisdiction where the affected Player is located.
+● Making any modification to Rocket League that has not been disclosed to and authorized by the
+Tournament Administrators.
+● Using any Tournament facilities, services, or equipment provided or made available by the
+Tournament Entities to post, transmit, disseminate, or otherwise make available any
+communications prohibited by the Code of Conduct.
+● Disconnecting from the in-game lobby before being dismissed by Tournament Administrators.
+● Changing in-game Player or user name to a name other than Player’s registered user name.
+● Otherwise violating these Rules.
+7.3
+
+Wagering
+
+Players and Control Persons shall not (a) conduct or promote betting, wagering, or gambling on the
+Tournament or any portion thereof, or (b) benefit, either directly or indirectly, from betting, wagering, or
+gambling on the Tournament or any portion thereof.
+7.4
+
+Harassment
+
+7.4.1 Players and Control Persons are prohibited from engaging in any form of harassing, abusive, or
+discriminatory conduct based on race, color, ethnicity, national origin, religion, political opinion or any
+other opinion, gender, gender identity, sexual orientation, age, disability, or any other status or characteristic
+protected under applicable law.
+7.4.2 Any Player or Control Person who witnesses or is subjected to harassing, abusive, or discriminatory
+conduct should notify a Tournament Administrator. All complaints reported pursuant to this Section 7.4.2
+will be promptly investigated and appropriate action will be taken. Retaliation against any Player or Control
+Person who brings forward a complaint or cooperates in the investigation of a complaint is proh ibited.
+7.5
+
+Confidentiality
+
+A Player or Control Person may not disclose to any third party any confidential information provided by
+the Tournament Administrators, Psyonix, or its parent or affiliates concerning Rocket League, the
+Tournament, Psyonix, or its parent or affiliates, by any method of communication, including by posting on
+social media channels.
+7.6
+
+Illegal Conduct
+
+Players and Control Persons are required to comply with all applicable laws at all times.
+8.
+
+Rules and Conduct Violations
+Page 44
+
+8.1
+
+Investigation and Compliance
+
+8.1.1 Players and Control Persons agree to fully cooperate with Psyonix and/or a Tournament
+Administrator (as applicable) in the investigation of possible violations of these Rules. If Psyonix and/or a
+Tournament Administrator contacts a Player or Control Person to discuss the investigation, the Player or
+Control Person must be truthful in the information that he or she provides to Psyonix and/or a Tournament
+Administrator. Any Player or Control Person found to have withheld, destroyed, or tampered with any
+related information, or otherwise found to have mislead Psyonix and/or a Tournament Administrator during
+an investigation, will be subject to disciplinary action as further described in Section 8.2.
+8.1.2 Players and Control Persons understand and agree that Psyonix has the right, in its sole discretion,
+to remove a Player or Control Person from, or restrict such Player’s or Control Person’s participation in,
+any Tournament event as part of any investigation conducted by Psyonix and/or a Tournament
+Administrator (as applicable) pursuant to Section 8.1.1.
+8.2
+
+Disciplinary Action
+
+8.2.1 If Psyonix decides that a Player or Control Person has violated the Code of Conduct or any term of
+the Rules, Psyonix may take the following disciplinary actions (as applicable):
+● Match restart;
+● Loss of Game;
+● Match forfeiture;
+● Issue a private or public warning (verbal or written) to the Player or Control Person;
+● Loss of all or any part of the prizes previously awarded to the Player or Team;
+● Disqualify the Player or Control Person from participating in one or more Matches and/or Games
+at the Tournament; or
+● Prevent the Player or Control Person from participating in one or more future competitions hosted
+by Psyonix.
+8.2.2 For clarity, the nature and extent of the disciplinary action taken by Psyonix pursuant to this Section
+8.2 will be in the sole and absolute discretion of Psyonix. Psyonix reserves the right to seek damages and
+other remedies from such Player or Control Person to the fullest extent permitted by applicable law. The
+enforcement of any applicable disciplinary action by Psyonix shall not provide a Player or Control Person
+with grounds for claims against Psyonix under any theory of law, or otherwise be considered a liability on
+the part of Psyonix to such Player or Control Person.
+8.2.3 If Psyonix decides that there have been repeated breaches of these Rules by a Player or Control
+Person, it may hand out increasing disciplinary action, up to and including permanent disqualification from
+all future competitive play of Rocket League. Psyonix may also enforce any applicable disciplinary action
+specified in Psyonix’s Terms of Use (https://www.psyonix.com/tou/) and/or the Rocket League EULA
+(https://www.psyonix.com/eula/ ).
+8.2.4 A final decision by Psyonix as to the appropriate disciplinary action will be final and binding on
+the applicable Players and Control Persons.
+Page 45
+
+8.3
+
+Rule Disputes
+
+Psyonix has final, binding authority to decide all disputes with respect to any portion of these Rules,
+including the breach, enforcement, or interpretation thereof.
+9.
+
+Conditions
+
+The Tournament is subject to these Rules. By participating, each Player agrees (or, if a Minor, such Player’s
+parent or legal guardian agrees on such Player’s behalf): (a) to be bound by these complete Rules (including
+the Code of Conduct) and the decisions of Psyonix which shall be final and binding; and (b) to waive any
+right to claim ambiguity in the Tournament or these Rules, except where prohibited by applicable law. By
+accepting a prize, the Winning Player and/or Team agrees (or, if a Minor, such Winning Player’s parent or
+legal guardian agrees on such Winning Player’s behalf) to release Psyonix from any and all liability, loss,
+or damage arising from or in connection with awarding, receipt, and/or use or misuse of prize or
+participation in any prize-related activities. Psyonix shall not be liable for: (i) telephone system, telephone,
+or computer hardware, software, or other technical or computer malfunctions, lost connections,
+disconnections, delays, or transmission errors; (ii) data corruption, theft, destruction, and unauthorized
+access to or alteration of entry or other materials; (iii) any injuries, losses, or damages of any kind, including
+death caused by the prize or resulting from acceptance, possession, or use of a prize, or from participation
+in the Tournament; or (iv) any printing, typographical, administrative, or technological errors in any
+materials associated with the Tournament. Psyonix reserves the right to cancel or suspend the Tournament
+in its sole discretion or due to circumstances beyond its control, including natural disasters. Psyonix may
+disqualify any Player from participating in the Tournament or winning a prize if, in its sole discretion, it
+determines such Player is attempting to undermine the legitimate operation of the Tournament by cheating,
+hacking, deception, or any other unfair playing practices intending to annoy, abuse, threaten, undermine,
+or harass any other Players or Psyonix’s representatives. The internal laws of the State of North Carolina,
+without reference to any of its conflicts of laws principles, shall govern disputes regarding these Rules
+and/or the Tournament. Psyonix may, in its sole discretion, cancel, modify, or suspend the Tournament
+should a virus, bug, computer problem, unauthorized intervention, force majeure, or other cause beyond
+Psyonix’s control corrupt the administration, security, or proper play of the Tournament. Any attempt to
+deliberately damage or undermine the legitimate operation of the Tournament may be in violation of
+criminal and civil laws and will result in disqualification from participation in the Tournament. Should
+such an attempt be made, Psyonix reserves the right to seek remedies and damages (including attorneys’
+fees) to the fullest extent of the law, including criminal prosecution. The Tournament is subject to all
+applicable federal, state and local laws.
+10. Name, Image, and Likeness; Team Representatives
+10.1 Each Player, Coach and any other person appearing on-camera on behalf of a Team
+(“Participant”) hereby grants to Psyonix a royalty-free, fully paid-up, non-exclusive, worldwide right and
+license (with the right to grant sublicenses) to (a) interview, photograph, record, tape, and/or film him/her,
+and (b) use his/her name, image, likeness, avatar, voice, backstory and/or activities captured or recorded
+during this Tournament and related esports events (“NIL”) for the purpose of marketing, sponsorship, and
+promoting Rocket League, the RLCS, this Tournament and related esports productions, including in
+Psyonix’s print and online advertising, and in its streams, broadcasts, websites, blogs, and social media
+channels. The license to capture and record a Participant’s NIL shall expire at the end of each RLCS season,
+provided that if any of the Participant’s NIL are integrated into media or materials that are captured or
+recorded during the RLCS season, the license survives with respect to those media and materials and any
+derivatives, compilations or adaptations of them made during or after the RLCS season (e.g., season
+highlights clips and “great moments in RLCS history” videos).
+Page 46
+
+10.2 All Teams must select one Player at the start of this Tournament to serve as the representative of
+the Team for all scheduled interviews for this Season (the “Team Representative”). The Team
+Representative is not obligated to be the only member of the Team to give interviews during this Season.
+However, the Team Representative must be present for all scheduled interviews, unless the Team advises
+Psyonix or the Tournament Administrator that an alternate Player will attend the interview prior to the
+Match for which an interview is scheduled. At the sole discretion of Psyonix, a Coach (if any) may serve
+as the Team Representative in an interview.
+Psyonix will try to provide the Team and Team Representative with 24 hours advance notice of the
+interviews, which shall be scheduled on the Team’s Match day. If an acceptable Team Representative is
+not available for a scheduled interview, permitting for technical issues, Psyonix reserves to right to institute
+disciplinary action as outlined in Section 8.2.
+11. Waiver of Jury Trial
+EXCEPT AS PROHIBITED BY APPLICABLE LAW AND AS A CONDITION OF PARTICIPATING IN THIS
+TOURNAMENT, EACH PARTICIPANT HEREBY IRREVOCABLY AND PERPETUALLY WAIVES ANY RIGHT
+S/HE MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY
+ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS TOURNAMENT, ANY DOCUMENT OR
+AGREEMENT ENTERED INTO IN CONNECTION HEREWITH, ANY PRIZE AVAILABLE IN CONNECTION
+HEREWITH, AND ANY OF THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY .
+12. RAP and Other Programs
+Psyonix may, from time to time, create special monetization programs that apply to the RLCS and its
+Teams, such as the Rocket Affiliate Program (“RAP”). The terms and conditions applicable to RAP and
+other similar programs are separate from these Rules. In the event of a conflict between the terms and
+conditions of RAP and these Rules, the provisions that are more protective of Psyonix will apply and
+govern.
+13. Privacy
+Please refer to Psyonix’s privacy policy located at https://www.psyonix.com/privacy/ for important
+information regarding the collection, use and disclosure of personal information b y Psyonix.
+14.
+
+Health and Safety
+
+14.1 Compliance with Health Guidance. All Players, Owners, Managers, Coaches and Teams shall
+comply with (a) any written guidance provided by Psyonix and/or Tournament Administrators from time
+to time relating to health and safety matters and COVID-19; and (b) applicable laws, ordinances, and public
+health authority orders regarding COVID-19. In the event of a conflict between any guidance or standards,
+the stricter requirement shall prevail.
+14.2 Final Decisions Relating to Player Safety. Notwithstanding the foregoing, the final decision
+relating to whether it is safe for Players on a Team to participate in a Tournament will be made by the
+Manager of that Team in consultation with Psyonix and/or Tournament Admin istrators. Each Team shall
+comply with local law and ordinances governing public meetings and public health. In the event of any
+uncertainty as to whether a gathering of Players can be safely held, the Manager of a Team should exercise
+Page 47
+
+his or her discretion in a way that provides the greatest level of protection and safety for Players, fans, staff,
+and other participants in the Tournament.
+14.3 Communication with Tournament Administrators. It is important that Players, Coaches, and
+Managers use their best efforts to remain connected to the chat system used by Psyonix and/or Tournament
+Administrators and follow all instructions given by Tournament Administrators during the entire process of
+a Tournament, including travel to and from the Tournament venue. Players, Managers, and Coaches shall
+follow the instructions of Tournament referees and cooperate with referees and other Tournament staff
+regarding masks and other protective measures instituted to ensure the health and safety of all involved in
+the Tournament.
+14.4 Heath Screening. Prior to entering any Tournament venue, each Player, Coach, and Manager may
+be required to verify his or her identity with Tournament staff and to submit to a health screening by
+Tournament staff, which may include but is not limited to, a temperature screen. Health screenings may
+also be conducted at other times during a Tournament in the sole discretion of Psyonix and/or Tournament
+Administrators. If, at any time prior to or during a Tournament, Psyonix or Tournament Admin istrators
+determine that an individual has COVID-19 symptoms or otherwise may be infected with the COVID-19
+virus or any other communicable disease, such individual will be required to leave the venue immediately.
+If Psyonix or Tournament Administrators determine that a Player should not participate in a Tournament for
+health reasons, the onsite referee may require the Team to provide a substitute. If applicable law requires
+any additional or different health inspection, sanitation, or public safety proce dures, Psyonix and/or
+Tournament Administrators will have full authority to implement those procedures, and all Player, Owners,
+Coaches, and Managers must cooperate with Psyonix and/or Tournament Administrators in the
+implementation of those procedures.
+14.5 Health Issues Involving Players. The first responsibility of all Managers and Coaches is to care
+for the health and safety of the Team’s Players and staff. A Manager shall promptly notify Psyonix or
+Tournament Administrators of any health issue involving a Player, so that appropriate measures can be taken
+to trace contacts and follow other health and safety protocols.
+14.6 Health Issues Involving Coaches and Managers. If a Team’s Manager or Coach is unable to
+participate in a Tournament due to a health issue, the Team’s Owners or other responsible persons shall
+promptly notify Psyonix and/or Tournament Administrators and designate a suitable replacement. Once the
+health issues of the applicable Manager or Coach have subsided and any applicable quarantine has expired,
+he or she will be permitted to resume his or her duties with the Team.
+14.7 Health Privacy. All Players, Managers and Coaches agree to (a) the collection, storage and use of
+records and information about exposure to or symptoms of COVID-19, COVID-19 test results, or
+vaccination status as described in this Section, and (b) the use of such records and information to comply
+with local law, ordinances, and guidelines governing public meetings and public health and, when necessary,
+to protect fans and other members of the public from exposure to COVID-19. If a Player, Manager, or Coach
+has any questions about the ways in which such Player’s, Manager’s, or Coach’s records and information is
+collected and used pursuant to this Section, or their choices and rights regarding such use, please see the
+ESL Privacy Policy available at https://www.eslgaming.com/privacypolicy.
+© 2023 Psyonix LLC. All rights reserved.
+
+Page 48
+
+
