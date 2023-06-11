@@ -1,3 +1,0 @@
-guild=discord.Object(id=1115156465443938370)
-application_id = 1114825489035579425
-TOKEN = 'MTExNDgyNTQ4OTAzNTU3OTQyNQ.GINFen.QLe6Cxaq5mko6_upV98Y_uHmIUMcK08B1fu-lc'
