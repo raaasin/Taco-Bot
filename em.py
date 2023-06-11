@@ -2,8 +2,21 @@ import random
 import smtplib
 import pandas as pd
 
-def register():
+def reg(epicid, email):
     try:
+        # Check if epicid or email exists in the email database
+        colnames=['EpicID', 'email', 'otp', 'verified']
+        df = pd.read_csv('email_database.csv',names=colnames,header=None)
+        existing_data = df.loc[(df['EpicID'] == epicid) | (df['email'] == email)]
+        
+        if not existing_data.empty:
+            verified_status = existing_data.iloc[0]['verified']
+            
+            if verified_status == 0:
+                return "Please verify your OTP using /verify OTP or resend OTP using /resend_otp."
+            elif verified_status == 1:
+                return "You are already a registered user."
+        
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         
@@ -14,7 +27,7 @@ def register():
         otp = ''.join([str(random.randint(0, 9)) for _ in range(4)])
         
         sender = 'tacobotbynano@gmail.com'
-        receiver = 'razia971@gmail.com'
+        receiver = email
         subject = 'OTP Verification'
         message = f'Hello, Your OTP is {otp}'
         
@@ -25,11 +38,12 @@ def register():
         print("Email sent successfully.")
         
         # Store email details in the database (CSV file)
-        data = {'Sender': [sender], 'Receiver': [receiver], 'otp': [otp]}
+        data = {'EpicID': [epicid], 'email': [receiver], 'otp': [otp], 'verified': 0}
         df = pd.DataFrame(data)
         df.to_csv('email_database.csv', mode='a', index=False, header=False)  # Append to the existing CSV file
+
+        return "OTP sent to your email! Please use /verify OTP."
         
     except Exception as e:
         print("An error occurred while sending the email:", e)
-
-register()
+        return "OTP not sent due to " + str(e)
