@@ -21,9 +21,10 @@ class MyGroup(app_commands.Group):
    
 class signup(app_commands.Group):
     @app_commands.command()
-    async def register(self,interaction: discord.Interaction, epicid:str,email:str):
+    async def register(self,interaction: discord.Interaction,email:str):
         await interaction.response.defer()
-        val = em.reg(epicid,email)
+        uid=interaction.user.id
+        val = em.reg(uid,email)
         await interaction.followup.send(val)
     
 

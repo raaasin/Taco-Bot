@@ -2,12 +2,12 @@ import random
 import smtplib
 import pandas as pd
 
-def reg(epicid, email):
+def reg(uid, email):
     try:
         # Check if epicid or email exists in the email database
-        colnames=['EpicID', 'email', 'otp', 'verified']
+        colnames=['UserID', 'email', 'otp', 'verified']
         df = pd.read_csv('email_database.csv',names=colnames,header=None)
-        existing_data = df.loc[(df['EpicID'] == epicid) | (df['email'] == email)]
+        existing_data = df.loc[(df['UserID'] == uid) | (df['email'] == email)]
         
         if not existing_data.empty:
             verified_status = existing_data.iloc[0]['verified']
@@ -38,11 +38,11 @@ def reg(epicid, email):
         print("Email sent successfully.")
         
         # Store email details in the database (CSV file)
-        data = {'EpicID': [epicid], 'email': [receiver], 'otp': [otp], 'verified': 0}
+        data = {'UserID': [uid], 'email': [receiver], 'otp': [otp], 'verified': 0}
         df = pd.DataFrame(data)
         df.to_csv('email_database.csv', mode='a', index=False, header=False)  # Append to the existing CSV file
 
-        return "OTP sent to your email! Please use /verify OTP."
+        return "OTP sent to your email! Please use /reigster verify OTP."
         
     except Exception as e:
         print("An error occurred while sending the email:", e)
