@@ -8,9 +8,12 @@ def extract_team_names_from_csv(csv_file):
     return team_names
 
 def gentourney():
+    #generate tourney with tourney name, and create a database like a csv to store team and players 
+    #if tourney exists tell tourney exists and use /tourney end 
     pass
 
 def generate_double_elimination_bracket(team_names,tourney):
+    #check if tourney exists to generate
     team_names = extract_team_names_from_csv('teams.csv')
     num_teams = len(team_names)
     num_rounds = int(math.ceil(math.log2(num_teams)))
@@ -25,7 +28,9 @@ def generate_double_elimination_bracket(team_names,tourney):
         winners_bracket.append({'match_id': match_id, 'team1': team1, 'team2': team2, 'winner': None})
 
     bracket = {'winners_bracket': winners_bracket, 'losers_bracket': losers_bracket}
+    #disable registration and de registering now
     return bracket
+
 
 def update_match_result(bracket, match_id, winner):
     for match in bracket['winners_bracket']:
@@ -63,4 +68,14 @@ def update_match_result(bracket, match_id, winner):
     bracket['losers_bracket'] = updated_losers_bracket
 
 def regtourney():
+    #register for tourney, 
+    #check if tourney exists
+    #check if all players are registered users 
+    #check if already registered 
+    #check if brakcet generated already (no more registrations)
+    pass
+def unregtourney():
+    #unregfor tourney
+    #check if tourney exists
+    #check if bracket generated already (no unreg now)
     pass
