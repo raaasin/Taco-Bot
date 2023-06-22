@@ -3,8 +3,9 @@ from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader
 import sys
 import os
 import json
+import creds
 
-os.environ["OPENAI_API_KEY"]="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"
+os.environ["OPENAI_API_KEY"]=creds.open
 
 
 documents = SimpleDirectoryReader('tdata').load_data()

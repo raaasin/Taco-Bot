@@ -4,9 +4,10 @@ from discord import app_commands
 from discord.ext import commands
 import logging
 import em
-guild=discord.Object(id=1115156465443938370)
-application_id = 1114825489035579425
-TOKEN = 'MTExNDgyNTQ4OTAzNTU3OTQyNQ.GINFen.QLe6Cxaq5mko6_upV98Y_uHmIUMcK08B1fu-lc'
+import creds
+guild=discord.Object(id=creds.id)
+application_id = creds.application_id
+TOKEN = creds.TOKEN
 intents = discord.Intents.all()
 logger=logging.getLogger("bot")
 
