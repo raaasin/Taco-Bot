@@ -58,6 +58,5 @@ Once the bot is up and running, invite it to your Discord server using the OAuth
 
 Use the provided slash commands to interact with the bot. For example, you can use the `/start_tournament` command to initiate a new Rocket League tournament or use the `/ask_question` command to ask a question about the tournament rules.
 
-Refer to the [Documentation](./docs/README.md) for detailed usage instructions and API reference.
 
 
