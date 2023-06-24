@@ -1,3 +1,5 @@
 discord.py
 openai
-
+responses
+em
+smtplib
