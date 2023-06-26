@@ -10,7 +10,7 @@ application_id = creds.application_id
 TOKEN = creds.TOKEN
 intents = discord.Intents.all()
 logger=logging.getLogger("bot")
-
+#not sure why my code is not wroking lol
 class MyGroup(app_commands.Group):
     @app_commands.command()
     async def ping(self,interaction:discord.Interaction):
