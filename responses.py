@@ -4,7 +4,7 @@ import sys
 import os
 import json
 import creds
-
+'''
 os.environ["OPENAI_API_KEY"]=creds.open
 
 
@@ -15,4 +15,4 @@ q=index.as_query_engine()
 def handle_response(message) -> str:
     return q.query(message)
 
-    
+'''
