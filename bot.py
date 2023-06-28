@@ -10,7 +10,6 @@ application_id = creds.application_id
 TOKEN = creds.TOKEN
 intents = discord.Intents.all()
 logger=logging.getLogger("bot")
-#we fix tomorrow!
 class MyGroup(app_commands.Group):
     @app_commands.command()
     async def ping(self,interaction:discord.Interaction):
@@ -19,6 +18,35 @@ class MyGroup(app_commands.Group):
     @app_commands.command()
     async def pong(self,interaction:discord.Interaction):
         await interaction.response.send_message(f"ping")
+
+#work on tourney commands etc
+#stopped working on OPENAI api for now
+class tourney(app_commands.Group):
+    @app_commands.command()
+    async def register(self,interaction: discord.Interaction,email:str):
+        await interaction.response.defer()
+        uid=interaction.user.id
+        val = em.reg(uid,email)
+        await interaction.followup.send(val,ephemeral=True)
+    @app_commands.command()
+    async def verify(self,interaction: discord.Interaction,otp:str):
+        await interaction.response.defer()
+        uid=interaction.user.id
+        va = em.verify(uid,otp)
+        await interaction.followup.send(va,ephemeral=True)
+    @app_commands.command()
+    async def change_email(self,interaction: discord.Interaction,email:str):
+        await interaction.response.defer()
+        uid=interaction.user.id
+        v=em.ce(uid,email)
+        await interaction.followup.send(v,ephemeral=True)
+        
+    @app_commands.command()
+    async def resend_otp(self,interaction: discord.Interaction):
+        await interaction.response.defer()
+        uid=interaction.user.id
+        v=em.rotp(uid)
+        await interaction.followup.send(v,ephemeral=True)
    
 class signup(app_commands.Group):
     @app_commands.command()
@@ -46,7 +74,7 @@ class signup(app_commands.Group):
         uid=interaction.user.id
         v=em.rotp(uid)
         await interaction.followup.send(v,ephemeral=True)
-    
+
 def run_discord_bot():
     
     bot = commands.Bot(command_prefix="!",intents=intents)
