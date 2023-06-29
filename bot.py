@@ -26,7 +26,7 @@ class tourney(app_commands.Group):
     async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
         await interaction.response.defer()
         uid=interaction.user.id
-        val = em.reg(uid,email)
+        val = em.reg(uid)
         await interaction.followup.send(val,ephemeral=True)
     @app_commands.command()
     async def deregister(self,interaction: discord.Interaction,otp:str):
