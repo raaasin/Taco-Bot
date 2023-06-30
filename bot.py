@@ -20,7 +20,16 @@ class MyGroup(app_commands.Group):
     async def pong(self,interaction:discord.Interaction):
         await interaction.response.send_message(f"ping")
 
+#Commands so that people can register for a tournament rn only 3v3 focused
+#class tourney(app_commands.Group):
+    @app_commands.command()
+    async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
+        await interaction.response.defer()
+        uid=interaction.user.id
+        val = em.reg(uid)
+        await interaction.followup.send(val,ephemeral=True)
 
+#commands for helpline either for tourney or queries or reporting
 class tourney(app_commands.Group):
     @app_commands.command()
     async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
@@ -28,25 +37,16 @@ class tourney(app_commands.Group):
         uid=interaction.user.id
         val = em.reg(uid)
         await interaction.followup.send(val,ephemeral=True)
+
+
+#commands for an admin so he can create a tournament and modify details or publish the tourney screen or seeding
+class tourney(app_commands.Group):
     @app_commands.command()
-    async def deregister(self,interaction: discord.Interaction,otp:str):
+    async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
         await interaction.response.defer()
         uid=interaction.user.id
-        va = em.verify(uid,otp)
-        await interaction.followup.send(va,ephemeral=True)
-    @app_commands.command()
-    async def change_email(self,interaction: discord.Interaction,email:str):
-        await interaction.response.defer()
-        uid=interaction.user.id
-        v=em.ce(uid,email)
-        await interaction.followup.send(v,ephemeral=True)
-        
-    @app_commands.command()
-    async def resend_otp(self,interaction: discord.Interaction):
-        await interaction.response.defer()
-        uid=interaction.user.id
-        v=em.rotp(uid)
-        await interaction.followup.send(v,ephemeral=True)
+        val = em.reg(uid)
+        await interaction.followup.send(val,ephemeral=True)
    
 class signup(app_commands.Group):
     @app_commands.command()
@@ -83,9 +83,9 @@ def run_discord_bot():
     async def on_ready():
         logger.info(f"User: {bot.user} (ID: {bot.user.id})")
         mygroup=MyGroup(name="greetings",description="Welcomes users") 
-        bot.tree.add_command(mygroup)
-        sign=signup(name="signup",description="Register to participate in tournaments")
-        bot.tree.add_command(sign)
+        bot.tree.add_command(mygroup) 
+        sign=signup(name="signup",description="Register to participate in tournaments") #create signup commands
+        bot.tree.add_command(sign) #adding it to the command list
         bot.tree.copy_global_to(guild=guild)
         await bot.tree.sync(guild=guild)
 
