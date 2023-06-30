@@ -10,6 +10,7 @@ application_id = creds.application_id
 TOKEN = creds.TOKEN
 intents = discord.Intents.all()
 logger=logging.getLogger("bot")
+#fun commands Ping and Pong
 class MyGroup(app_commands.Group):
     @app_commands.command()
     async def ping(self,interaction:discord.Interaction):
@@ -19,8 +20,7 @@ class MyGroup(app_commands.Group):
     async def pong(self,interaction:discord.Interaction):
         await interaction.response.send_message(f"ping")
 
-#work on tourney commands etc
-#stopped working on OPENAI api for now
+
 class tourney(app_commands.Group):
     @app_commands.command()
     async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
