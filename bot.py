@@ -37,6 +37,13 @@ class tourney(app_commands.Group):
         uid=interaction.user.id
         val = em.reg(uid)
         await interaction.followup.send(val,ephemeral=True)
+    
+    @app_commands.command()
+    async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
+        await interaction.response.defer()
+        uid=interaction.user.id
+        val = em.reg(uid)
+        await interaction.followup.send(val,ephemeral=True)
 
 
 #commands for an admin so he can create a tournament and modify details or publish the tourney screen or seeding
