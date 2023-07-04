@@ -21,9 +21,9 @@ class MyGroup(app_commands.Group):
         await interaction.response.send_message(f"ping")
 
 #Commands so that people can register for a tournament rn only 3v3 focused
-#class tourney(app_commands.Group):
+class help(app_commands.Group):
     @app_commands.command()
-    async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
+    async def register(self,interaction: discord.Interaction,query:str):
         await interaction.response.defer()
         uid=interaction.user.id
         val = em.reg(uid)
