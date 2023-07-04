@@ -26,8 +26,8 @@ class help(app_commands.Group):
     async def register(self,interaction: discord.Interaction,query:str):
         await interaction.response.defer()
         uid=interaction.user.id
-        val = em.reg(uid)
-        await interaction.followup.send(val,ephemeral=True)
+        val = em.reg(uid) #runs the register command and returns a value
+        await interaction.followup.send(val,ephemeral=True) #waits for em for more than 3 seconds and ephemeral will make it a only you can see message
 
 #commands for helpline either for tourney or queries or reporting
 class tourney(app_commands.Group):
