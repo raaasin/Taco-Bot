@@ -8,3 +8,8 @@
 -register
 -derigester
 
+## Signup
+-register
+-verify
+-change_email
+-resend_otp
