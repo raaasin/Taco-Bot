@@ -1,15 +1,15 @@
 # Commands
 
 ## Greetings
--pong
--ping
+- pong
+- ping
 
 ## Tourney
--register
--derigester
+- register
+- derigester
 
 ## Signup
--register
--verify
--change_email
--resend_otp
+- register
+- verify
+- change_email
+- resend_otp
