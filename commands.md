@@ -13,3 +13,6 @@
 - verify
 - change_email
 - resend_otp
+
+## visualization
+- new commands
