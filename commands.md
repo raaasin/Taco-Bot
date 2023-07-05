@@ -15,4 +15,6 @@
 - resend_otp
 
 ## display
-- tournam
+- tournament
+- remove
+- update
