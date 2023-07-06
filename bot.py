@@ -57,6 +57,14 @@ class tourney(app_commands.Group):
    
 #commands for visualizing the tournament and update or delete the visualization 
 
+class visualize(app_commands.Group):
+    @app_commands.command()
+    async def register(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
+        await interaction.response.defer()
+        uid=interaction.user.id
+        val = em.reg(uid)
+        await interaction.followup.send(val,ephemeral=True)
+   
 class signup(app_commands.Group):
     @app_commands.command()
     async def register(self,interaction: discord.Interaction,email:str):
