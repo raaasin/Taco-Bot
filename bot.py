@@ -59,7 +59,7 @@ class tourney(app_commands.Group):
 
 class visualize(app_commands.Group):
     @app_commands.command()
-    async def tourney_display(self,interaction: discord.Interaction,teammate1:str,teammate2:str,sub:str,coach:str):
+    async def tourney_display(self,interaction: discord.Interaction):
         await interaction.response.defer()
         uid=interaction.user.id
         val = em.reg(uid)
