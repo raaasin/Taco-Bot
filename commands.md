@@ -14,7 +14,7 @@
 - change_email
 - resend_otp
 
-## display
-- tournament
-- remove
-- update
+## visualize
+- tourney_display
+- tourney_refresh
+- tourney_remove
