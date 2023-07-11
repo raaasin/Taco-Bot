@@ -7,3 +7,4 @@ def rem():
     #this function remomves the particular image from the particular channel
 def update():
     pass
+    #this function updates the current image by replacing it with the new one.
