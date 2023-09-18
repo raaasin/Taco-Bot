@@ -60,24 +60,15 @@ class tourney(app_commands.Group):
 class visualize(app_commands.Group):
     @app_commands.command()
     async def tourney_display(self,interaction: discord.Interaction):
-        await interaction.response.defer()
-        uid=interaction.user.id
-        val = em.reg(uid)
-        await interaction.followup.send(val,ephemeral=True)
+        pass
     
     @app_commands.command()
     async def tourney_refresh(self,interaction: discord.Interaction):
-        await interaction.response.defer()
-        uid=interaction.user.id
-        val = em.reg(uid)
-        await interaction.followup.send(val,ephemeral=True)
+        pass
        
     @app_commands.command()
     async def tourney_remove(self,interaction: discord.Interaction):
-        await interaction.response.defer()
-        uid=interaction.user.id
-        val = em.reg(uid)
-        await interaction.followup.send(val,ephemeral=True)
+        pass
 class signup(app_commands.Group):
     @app_commands.command()
     async def register(self,interaction: discord.Interaction,email:str):
