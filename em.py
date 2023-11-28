@@ -4,7 +4,7 @@ import pandas as pd
 
 def reg(uid, email):
     try:
-        # Check if epicid or email exists in the email database
+        #Check if epicid or email exists in the email database
         colnames=['UserID', 'email', 'otp', 'verified']
         df = pd.read_csv('email_database.csv',names=colnames,header=None)
         existing_data = df.loc[(df['UserID'] == uid) | (df['email'] == email)]
