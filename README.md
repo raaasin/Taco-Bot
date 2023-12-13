@@ -28,7 +28,7 @@ A Discord bot designed to facilitate Rocket League tournaments with question-ans
 
 1. Clone this repository to your local machine or server.
 ```shell
-git clone https://github.com/raaasin/rlcsdiscordbot
+git clone https://github.com/raaasin/Taco-Bot
 ```
 
 2. Install the required Python dependencies using pip.
